@@ -1,0 +1,192 @@
+\begin{thebibliography}{10}
+
+\bibitem{laptag}
+http://plasmalab.pbworks.com.
+
+\bibitem{schaeffer:2014}
+D.B. Schaeffer, Everson E.T., Bondarenko A.S., S.E. Clark, C.G. Constantin,
+  S.~Vincena, B.~Van~Compernolle, S.K.P. Tripathi, D.~Winkse, W.~Gekelman, and
+  C.~Niemann.
+\newblock Laser-driven, magnetized quasi-perpendicular collisionless shocks on
+  the {L}arge {P}lasma {D}evice.
+\newblock {\em Phys. Plasmas}, 21:056312, 2014.
+
+\bibitem{niemann:2014}
+C.~Niemann, W.~Gekelman, C.~G. Constantin, E.~T. Everson, D.~B. Schaeffer,
+  A.~S. Bondarenko, S.~E. Clark, D.~Winske, S.~Vincena, B.~Van~Compernolle, and
+  P.~Pribyl.
+\newblock Observation of collisionless shocks in a large current-free
+  laboratory plasma.
+\newblock {\em Geophysical Research Letters}, 41(21):7413--7418, 2014.
+
+\bibitem{clark:2014}
+S.~E. Clark, E.~T. Everson, D.~B. Schaeffer, A.~S. Bondarenko, C.~G.
+  Constantin, C.~Niemann, and D.~Winske.
+\newblock Enhanced collisionless shock formation in a magnetized plasma
+  containing a density gradient.
+\newblock {\em Phys. Rev. E}, 90:041101, Oct 2014.
+
+\bibitem{thorne:2010}
+R.M. Thorne.
+\newblock Radiation belt dynamics: The importance of wave-particle
+  interactions.
+\newblock {\em Geophysical Research Letters}, 37(22):L22107, 2010.
+
+\bibitem{reeves:2013}
+G.~D. Reeves, H.~E. Spence, M.~G. Henderson, S.~K. Morley, R.~H.~W. Friedel,
+  H.~O. Funsten, D.~N. Baker, S.~G. Kanekal, J.~B. Blake, J.~F. Fennell, S.~G.
+  Claudepierre, R.~M. Thorne, D.~L. Turner, C.~A. Kletzing, W.~S. Kurth, B.~A.
+  Larsen, and J.~T. Niehof.
+\newblock Electron acceleration in the heart of the van allen radiation belts.
+\newblock {\em Science}, 341(6149):991--994, 2013.
+
+\bibitem{horne:2005}
+Richard~B. Horne, Richard~M. Thorne, Sarah~A. Glauert, Jay~M. Albert, Nigel~P.
+  Meredith, and Roger~R. Anderson.
+\newblock Timescale for radiation belt electron acceleration by whistler mode
+  chorus waves.
+\newblock {\em Journal of Geophysical Research: Space Physics}, 110(A3):A03225,
+  2005.
+
+\bibitem{thorne:2013}
+R.~M. Thorne, W.~Li, B.~Ni, Q.~Ma, J.~Bortnik, L.~Chen, D.~N. Baker, H.~E.
+  Spence, G.~D. Reeves, M.~G. Henderson, C.~A. Kletzing, W.~S. Kurth, G.~B.
+  Hospodarsky, J.~B. Blake, J.~F. Fennell, S.~G. Claudepierre, and S.~G.
+  Kanekal.
+\newblock Rapid local acceleration of relativistic radiation-belt electrons by
+  magnetospheric chorus.
+\newblock {\em Nature}, 504(7480):411--414, 12 2013.
+
+\bibitem{vancompernolle:2014}
+B.~Van~Compernolle, J.~Bortnik, P.~Pribyl, W.~Gekelman, M.~Nakamoto, X.~Tao,
+  and R.~M. Thorne.
+\newblock Direct detection of resonant electron pitch angle scattering by
+  whistler waves in a laboratory plasma.
+\newblock {\em Phys. Rev. Lett.}, 112:145006, Apr 2014.
+
+\bibitem{vancompernolle:2015a}
+B.~Van~Compernolle, X.~An, J.~Bortnik, R.~M. Thorne, P.~Pribyl, and
+  W.~Gekelman.
+\newblock Excitation of chirping whistler waves in a laboratory plasma.
+\newblock {\em Phys. Rev. Lett.}, 114:245002, Jun 2015.
+
+\bibitem{wang:2012}
+Yuhou Wang, Walter Gekelman, Patrick Pribyl, and Konstantinos Papadopoulos.
+\newblock Scattering of magnetic mirror trapped fast electrons by a shear
+  alfv\'{e}n wave.
+\newblock {\em Phys. Rev. Lett.}, 108:105002, Mar 2012.
+
+\bibitem{wang:2013}
+Y.~Wang, W.~Gekelman, and P.~Pribyl.
+\newblock Hard x-ray tomographic studies of the destruction of an energetic
+  electron ring.
+\newblock {\em Review of Scientific Instruments}, 84(5):053503, 2013.
+
+\bibitem{wang:2014}
+Y.~Wang, W.~Gekelman, P.~Pribyl, and K.~Papadopoulos.
+\newblock Enhanced loss of magnetic-mirror-trapped fast electrons by a shear
+  alfv\'{e}n wave.
+\newblock {\em Physics of Plasmas}, 21(5):055705, 2014.
+
+\bibitem{rosso:2007}
+O.~A. Rosso, H.~A. Larrondo, M.~T. Martin, A.~Plastino, and M.~A. Fuentes.
+\newblock Distinguishing noise from chaos.
+\newblock {\em Phys. Rev. Lett.}, 99:154102, Oct 2007.
+
+\bibitem{bandt:2002}
+Christoph Bandt and Bernd Pompe.
+\newblock Permutation entropy: A natural complexity measure for time series.
+\newblock {\em Phys. Rev. Lett.}, 88:174102, Apr 2002.
+
+\bibitem{pace:2008}
+D.~C. Pace, M.~Shi, J.~E. Maggs, G.~J. Morales, and T.~A. Carter.
+\newblock Exponential frequency spectrum and lorentzian pulses in magnetized
+  plasmas.
+\newblock {\em Physics of Plasmas}, 15(12):122304, 2008.
+
+\bibitem{maggs:2012a}
+J~E Maggs and G~J Morales.
+\newblock Exponential power spectra, deterministic chaos and lorentzian pulses
+  in plasma edge dynamics.
+\newblock {\em Plasma Physics and Controlled Fusion}, 54(12):124041, 2012.
+
+\bibitem{maggs:2012b}
+J.~E. Maggs and G.~J. Morales.
+\newblock Origin of lorentzian pulses in deterministic chaos.
+\newblock {\em Phys. Rev. E}, 86:015401, Jul 2012.
+
+\bibitem{maggs:2013}
+J~E Maggs and G~J Morales.
+\newblock Permutation entropy analysis of temperature fluctuations from a basic
+  electron heat transport experiment.
+\newblock {\em Plasma Physics and Controlled Fusion}, 55(8):085015, 2013.
+
+\bibitem{maggs:2015}
+J~E Maggs, T~L Rhodes, and G~J Morales.
+\newblock Chaotic density fluctuations in l-mode plasmas of the diii-d tokamak.
+\newblock {\em Plasma Physics and Controlled Fusion}, 57(4):045004, 2015.
+
+\bibitem{vincena:2010}
+S.~T. Vincena, G.~J. Morales, and J.~E. Maggs.
+\newblock Effect of two ion species on the propagation of shear {A}lfv\'{e}n
+  waves of small transverse scale.
+\newblock {\em Physics of Plasmas}, 17(5):052106, 2010.
+
+\bibitem{vincena:2011}
+S.~T. Vincena, W.~A. Farmer, J.~E. Maggs, and G.~J. Morales.
+\newblock Laboratory realization of an ion-ion hybrid alfv\'{e}n wave
+  resonator.
+\newblock {\em Geophysical Research Letters}, 38(11):L11101, 2011.
+
+\bibitem{farmer:2012}
+W.~A. Farmer and G.~J. Morales.
+\newblock Cherenkov radiation of shear alfv\'{e}n waves in plasmas with two ion
+  species.
+\newblock {\em Physics of Plasmas}, 19(9):092109, 2012.
+
+\bibitem{vincena:2013}
+S.~T. Vincena, W.~A. Farmer, J.~E. Maggs, and G.~J. Morales.
+\newblock Investigation of an ion-ion hybrid alfv\'{e}n wave resonator.
+\newblock {\em Physics of Plasmas}, 20(1):012111, 2013.
+
+\bibitem{farmer:2013}
+W.~A. Farmer and G.~J. Morales.
+\newblock Propagation of shear alvén waves in two-ion species plasmas confined
+  by a nonuniform magnetic field.
+\newblock {\em Physics of Plasmas}, 20(8):--, 2013.
+
+\bibitem{farmer:2014}
+W.~A. Farmer and G.~J. Morales.
+\newblock The ion-ion hybrid alfv\'{e}n resonator in a fusion environment.
+\newblock {\em Physics of Plasmas}, 21(6):062507, 2014.
+
+\bibitem{lawrence:2009}
+Eric~E. Lawrence and Walter Gekelman.
+\newblock Identification of a quasiseparatrix layer in a reconnecting
+  laboratory magnetoplasma.
+\newblock {\em Phys. Rev. Lett.}, 103:105002, Sep 2009.
+
+\bibitem{gekelman:2010}
+W~Gekelman, E~Lawrence, A~Collette, S~Vincena, B~Van Compernolle, P~Pribyl,
+  M~Berger, and J~Campbell.
+\newblock Magnetic field line reconnection in the current systems of flux ropes
+  and alfv\'{e}n waves.
+\newblock {\em Physica Scripta}, 2010(T142):014032, 2010.
+
+\bibitem{vancompernolle:2011}
+B.~Van~Compernolle, W.~Gekelman, P.~Pribyl, and C.~M. Cooper.
+\newblock Wave and transport studies utilizing dense plasma filaments generated
+  with a lanthanum hexaboride cathode.
+\newblock {\em Physics of Plasmas}, 18(12):123501, 2011.
+
+\bibitem{gekelman:2014}
+Walter Gekelman, Bart~Van Compernolle, Tim DeHaas, and Stephen Vincena.
+\newblock Chaos in magnetic flux ropes.
+\newblock {\em Plasma Physics and Controlled Fusion}, 56(6):064002, 2014.
+
+\bibitem{vancompernolle:2015b}
+B.~Van~Compernolle, G.~J. Morales, J.~E. Maggs, and R.~D. Sydora.
+\newblock Laboratory study of avalanches in magnetized plasmas.
+\newblock {\em Phys. Rev. E}, 91:031102, Mar 2015.
+
+\end{thebibliography}
