@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.21)  23 JUL 2015 14:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.21)  24 AUG 2015 14:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -10,20 +9,6 @@ Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/size11.clo
-=======
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  23 JUL 2015 12:02
-entering extended mode
- restricted \write18 enabled.
- file:line:error style messages enabled.
- %&-line parsing enabled.
-**project_description.tex
-(./project_description.tex
-LaTeX2e <2011/06/27>
-Babel <3.9f> and hyphenation patterns for 78 languages loaded.
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/size11.clo
->>>>>>> origin/master
 File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -38,11 +23,7 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/lm/lmodern.sty
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/lm/lmodern.sty
->>>>>>> origin/master
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -77,17 +58,10 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
->>>>>>> origin/master
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks14
 \symAMSa=\mathgroup4
@@ -95,7 +69,6 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip43
@@ -105,22 +78,10 @@ For additional information on amsmath, use the `?' option.
 Package: amstext 2000/06/29 v2.01
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
-=======
-(/usr/local/texlive/2013/../texmf-local/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2000/07/18 v2.13 AMS math features
-\@mathmargin=\skip43
-
-For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2013/../texmf-local/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01
-
-(/usr/local/texlive/2013/../texmf-local/tex/latex/amsmath/amsgen.sty
->>>>>>> origin/master
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks15
 \ex@=\dimen103
 ))
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen104
@@ -143,30 +104,6 @@ LaTeX Info: Redefining \cdots on input line 466.
 \big@size=\dimen105
 LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
-=======
-(/usr/local/texlive/2013/../texmf-local/tex/latex/amsmath/amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen104
-)
-(/usr/local/texlive/2013/../texmf-local/tex/latex/amsmath/amsopn.sty
-Package: amsopn 1999/12/14 v2.01 operator names
-)
-\inf@bad=\count87
-LaTeX Info: Redefining \frac on input line 211.
-\uproot@=\count88
-\leftroot@=\count89
-LaTeX Info: Redefining \overline on input line 307.
-\classnum@=\count90
-\DOTSCASE@=\count91
-LaTeX Info: Redefining \ldots on input line 379.
-LaTeX Info: Redefining \dots on input line 382.
-LaTeX Info: Redefining \cdots on input line 467.
-\Mathstrutbox@=\box26
-\strutbox@=\box27
-\big@size=\dimen105
-LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
->>>>>>> origin/master
 \macc@depth=\count92
 \c@MaxMatrixCols=\count93
 \dotsspace@=\muskip10
@@ -187,7 +124,6 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 \multlinegap=\skip44
 \multlinetaggap=\skip45
 \mathdisplay@stack=\toks19
-<<<<<<< HEAD
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
@@ -217,48 +153,13 @@ Package: inputenc 2014/04/30 v1.2b Input encoding file
 \inpenc@posthook=\toks21
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/utf8.def
-=======
-LaTeX Info: Redefining \[ on input line 2666.
-LaTeX Info: Redefining \] on input line 2667.
-)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/fixltx2e.sty
-Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
-LaTeX Info: Redefining \em on input line 420.
-LaTeX Info: The control sequence `\[' is already robust on input line 471.
-LaTeX Info: The control sequence `\]' is already robust on input line 472.
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1enc.def
-File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
-))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2008/03/30 v1.1d Input encoding file
-\inpenc@prehook=\toks20
-\inpenc@posthook=\toks21
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/utf8.def
->>>>>>> origin/master
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1enc.dfu
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1enc.dfu
->>>>>>> origin/master
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -408,11 +309,7 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/ot1enc.dfu
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ot1enc.dfu
->>>>>>> origin/master
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -443,11 +340,7 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omsenc.dfu
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/omsenc.dfu
->>>>>>> origin/master
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -471,19 +364,11 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/textcomp.sty
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/upquote/upquote.sty
-Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
-tim
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/textcomp.sty
->>>>>>> origin/master
 Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -498,20 +383,12 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1enc.def
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1enc.def
->>>>>>> origin/master
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1enc.dfu
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1enc.dfu
->>>>>>> origin/master
 File: ts1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -646,19 +523,11 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
 ))
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
->>>>>>> origin/master
 \KV@toks@=\toks22
 )
 \MT@toks=\toks23
@@ -668,11 +537,7 @@ LaTeX Info: Redefining \textls on input line 766.
 LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
 \MT@listname@count=\count100
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/microtype-pdftex.def
->>>>>>> origin/master
 File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 915.
@@ -681,7 +546,6 @@ LaTeX Info: Redefining \lslig on input line 915.
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
 ))
@@ -693,19 +557,6 @@ Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
-))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
-
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
-Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
-
-
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
->>>>>>> origin/master
 Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
@@ -745,48 +596,29 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
 (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/auxhook.sty
-Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
->>>>>>> origin/master
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen113
 \Hy@linkcounter=\count101
 \Hy@pagecounter=\count102
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/pd1enc.def
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/pd1enc.def
->>>>>>> origin/master
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count103
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/hyperref.cfg
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/hyperref.cfg
->>>>>>> origin/master
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `unicode' set `true' on input line 4319.
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/puenc.def
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/puenc.def
->>>>>>> origin/master
 File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -800,15 +632,9 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count104
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip11
-Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
->>>>>>> origin/master
 )
 LaTeX Info: Redefining \url on input line 5041.
 \XeTeXLinkMargin=\dimen114
@@ -831,27 +657,18 @@ LaTeX Info: Redefining \pageref on input line 6369.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hpdftex.def
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/hpdftex.def
->>>>>>> origin/master
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count109
 \c@bookmark@seq@number=\count110
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
->>>>>>> origin/master
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip47
 )
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
 
@@ -866,22 +683,6 @@ File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 )
 (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2014/04/23 v3.0j Driver-dependant file (DPC,SPQR)
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
-)
-Package color Info: Driver file: pdftex.def on input line 130.
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-\Gread@gobject=\count111
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/dvipsnam.def
-File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
->>>>>>> origin/master
 ))
 Package hyperref Info: Option `breaklinks' set `true' on input line 42.
 
@@ -890,11 +691,7 @@ Package hyperref Warning: Option `bookmarks' has already been used,
 (hyperref)                setting the option has no effect on input line 42.
 
 Package hyperref Info: Option `colorlinks' set `true' on input line 42.
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/tools/longtable.sty
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/longtable.sty
->>>>>>> origin/master
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip48
 \LTright=\skip49
@@ -912,11 +709,7 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count116
 \LT@p@ftn=\toks24
 )
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/booktabs/booktabs.sty
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/booktabs/booktabs.sty
->>>>>>> origin/master
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen118
 \lightrulewidth=\dimen119
@@ -936,7 +729,6 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@lastruleclass=\count120
 \@thisrulewidth=\dimen130
 )
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -947,18 +739,6 @@ Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
 (/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
->>>>>>> origin/master
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
@@ -966,18 +746,13 @@ Package graphics Info: Driver file: pdftex.def on input line 91.
 \Gin@req@height=\dimen131
 \Gin@req@width=\dimen132
 )
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grffile.sty
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grffile.sty
->>>>>>> origin/master
 Package: grffile 2012/04/05 v1.16 Extended file name support for graphics (HO)
 Package grffile Info: Option `multidot' is set to `true'.
 Package grffile Info: Option `extendedchars' is set to `false'.
 Package grffile Info: Option `space' is set to `true'.
 Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 486.
 )
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
@@ -986,16 +761,6 @@ File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
 (/usr/local/texlive/2014/texmf-dist/tex/latex/fourier/fourier.sty
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1enc.def
-File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
-))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/fourier/fourier.sty
->>>>>>> origin/master
 Package: fourier 2005/01/01 1.4 fourier-GUTenberg package
 Now handling font encoding FML ...
 ... no UTF-8 mapping file for font encoding FML
@@ -1004,7 +769,6 @@ Now handling font encoding FMS ...
 Now handling font encoding FMX ...
 ... no UTF-8 mapping file for font encoding FMX
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
@@ -1013,16 +777,6 @@ File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
 (/usr/local/texlive/2014/texmf-dist/tex/latex/fourier/fourier-orns.sty
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1enc.def
-File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
-))
-(/usr/local/texlive/2013/texmf-dist/tex/latex/fourier/fourier-orns.sty
->>>>>>> origin/master
 Package: fourier-orns 2004/01/30 1.1 fourier-ornaments package
 )
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 50.
@@ -1152,19 +906,11 @@ LaTeX Font Info:    Redeclaring math accent \dot on input line 255.
 LaTeX Font Info:    Redeclaring math accent \mathring on input line 256.
 \symUfutm=\mathgroup7
 )
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/mathpazo.sty
 Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
 \symupright=\mathgroup8
 )
 (/usr/local/texlive/2014/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/mathpazo.sty
-Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
-\symupright=\mathgroup8
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/wrapfig/wrapfig.sty
->>>>>>> origin/master
 \wrapoverhang=\dimen133
 \WF@size=\dimen134
 \c@WF@wrappedlines=\count121
@@ -1172,104 +918,69 @@ Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS)
 \WF@everypar=\toks25
 Package: wrapfig 2003/01/31  v 3.6
 )
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/natbib/natbib.sty
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/natbib/natbib.sty
->>>>>>> origin/master
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip52
 \bibsep=\skip53
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count122
 )
-<<<<<<< HEAD
 (/Users/tcarter/Documents/tex/STY/plasmadefs.sty) (./project_description.aux)
-=======
-
-! LaTeX Error: File `plasmadefs.sty' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
-
-Enter file name: 
-No file project_description.aux.
->>>>>>> origin/master
 \openout1 = `project_description.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 96.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 96.
-<<<<<<< HEAD
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 98.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 98.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1cmr.fd
->>>>>>> origin/master
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 96.
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 96.
-LaTeX Font Info:    Try loading font information for FML+futm on input line 96.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 98.
+LaTeX Font Info:    Try loading font information for FML+futm on input line 98.
 
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/fourier/fmlfutm.fd
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/fourier/fmlfutm.fd
->>>>>>> origin/master
 File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
 )
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 96.
-LaTeX Font Info:    Try loading font information for FMS+futm on input line 96.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 98.
+LaTeX Font Info:    Try loading font information for FMS+futm on input line 98.
 
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/fourier/fmsfutm.fd
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/fourier/fmsfutm.fd
->>>>>>> origin/master
 File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
 )
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 96.
-LaTeX Font Info:    Try loading font information for FMX+futm on input line 96.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 98.
+LaTeX Font Info:    Try loading font information for FMX+futm on input line 98.
 
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/fourier/fmxfutm.fd
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/fourier/fmxfutm.fd
->>>>>>> origin/master
 File: fmxfutm.fd futm-extension
 )
-LaTeX Font Info:    ... okay on input line 96.
-LaTeX Font Info:    Try loading font information for T1+pplx on input line 96.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Try loading font information for T1+pplx on input line 98.
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/t1pplx.fd
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/t1pplx.fd
->>>>>>> origin/master
 File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
 )
-LaTeX Info: Redefining \microtypecontext on input line 96.
+LaTeX Info: Redefining \microtypecontext on input line 98.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
@@ -1280,48 +991,30 @@ Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/mt-ppl.cfg
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/mt-ppl.cfg
->>>>>>> origin/master
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
 \AtBeginShipoutBox=\box33
-Package hyperref Info: Link coloring ON on input line 96.
+Package hyperref Info: Link coloring ON on input line 98.
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
-
-(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
->>>>>>> origin/master
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count123
 )
-LaTeX Info: Redefining \ref on input line 96.
-LaTeX Info: Redefining \pageref on input line 96.
-LaTeX Info: Redefining \nameref on input line 96.
-<<<<<<< HEAD
+LaTeX Info: Redefining \ref on input line 98.
+LaTeX Info: Redefining \pageref on input line 98.
+LaTeX Info: Redefining \nameref on input line 98.
 
 (./project_description.out) (./project_description.out)
-=======
->>>>>>> origin/master
 \@outlinefile=\write3
 \openout3 = `project_description.out'.
 
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
->>>>>>> origin/master
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count124
 \scratchdimen=\dimen135
@@ -1334,17 +1027,10 @@ LaTeX Info: Redefining \nameref on input line 96.
 \MPnumerator=\count128
 \makeMPintoPDFobject=\count129
 \everyMPtoPDFconversion=\toks27
-<<<<<<< HEAD
 ) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
-=======
-) (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
->>>>>>> origin/master
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
 Package grfext Info: Graphics extension search list:
@@ -1352,690 +1038,241 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
->>>>>>> origin/master
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 98.
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 100.
 
 [1
 
-<<<<<<< HEAD
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2]
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <12> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 240.
- [3]
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 242.
+ [3] [4]
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 352.
- [4]
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 383
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 359.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 390
 .
  (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1pplx.fd
-=======
-{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 224.
-
-
-Package natbib Warning: Citation `laptag' on page 2 undefined on input line 224
-.
-
-[2]
-LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <12> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 240.
- [3] [4]
-
-Package natbib Warning: Citation `schaeffer:2014' on page 5 undefined on input 
-line 375.
-
-
-Package natbib Warning: Citation `niemann:2014' on page 5 undefined on input li
-ne 375.
-
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 383
-.
-(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1pplx.fd
->>>>>>> origin/master
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 383
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 390
 .
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omlzplm.fd
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omlzplm.fd
->>>>>>> origin/master
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 383
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 390
 .
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omszplm.fd
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omszplm.fd
->>>>>>> origin/master
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 383
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 390
 .
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omxzplm.fd
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omxzplm.fd
->>>>>>> origin/master
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 383.
+(Font)              scaled to size 11.40997pt on input line 390.
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/mt-msa.cfg
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/mt-msa.cfg
->>>>>>> origin/master
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 383.
+(Font)              scaled to size 8.33606pt on input line 390.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 383.
+(Font)              scaled to size 6.25204pt on input line 390.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 383.
+(Font)              scaled to size 11.40997pt on input line 390.
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/mt-msb.cfg
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/mt-msb.cfg
->>>>>>> origin/master
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 383.
+(Font)              scaled to size 8.33606pt on input line 390.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 383.
+(Font)              scaled to size 6.25204pt on input line 390.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 383.
+(Font)              scaled to size 10.07397pt on input line 390.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 383.
+(Font)              scaled to size 7.35999pt on input line 390.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 383.
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 383
+(Font)              scaled to size 5.51999pt on input line 390.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 390
 .
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
-<shock1.png, id=131, 203.3196pt x 233.673pt>
-=======
-(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1zplm.fd
-File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-)
-<shock1.png, id=31, 203.3196pt x 233.673pt>
->>>>>>> origin/master
+<shock1.png, id=143, 203.3196pt x 233.673pt>
 File: shock1.png Graphic file (type png)
  <use shock1.png>
-Package pdftex.def Info: shock1.png used on input line 387.
+Package pdftex.def Info: shock1.png used on input line 394.
 (pdftex.def)             Requested size: 203.31909pt x 233.67242pt.
-<<<<<<< HEAD
- [5 <./shock1.png>] <bortnik1.png, id=154, 500.5902pt x 214.401pt>
+ [5]
+<bortnik1.png, id=166, 500.5902pt x 214.401pt>
 File: bortnik1.png Graphic file (type png)
  <use bortnik1.png>
-Package pdftex.def Info: bortnik1.png used on input line 449.
+Package pdftex.def Info: bortnik1.png used on input line 456.
 (pdftex.def)             Requested size: 361.36418pt x 154.77098pt.
 Missing character: There is no � in font zplmr7y!
 Missing character: There is no � in font zplmr7y!
- [6]
+ [6 <./shock1.png>] <fastion.pdf, id=190, 486.07133pt x 449.7896pt>
+File: fastion.pdf Graphic file (type pdf)
+ <use fastion.pdf>
+Package pdftex.def Info: fastion.pdf used on input line 523.
+(pdftex.def)             Requested size: 252.94397pt x 234.0635pt.
+
+[7 <./bortnik1.png>] [8 <./fastion.pdf>]
+<iowa.pdf, id=248, 475.7775pt x 362.36578pt>
+File: iowa.pdf Graphic file (type pdf)
+ <use iowa.pdf>
+Package pdftex.def Info: iowa.pdf used on input line 581.
+(pdftex.def)             Requested size: 252.94492pt x 192.6501pt.
 Missing character: There is no � in font zplmr7y!
 Missing character: There is no � in font zplmr7y!
-
-[7 <./bortnik1.png>] <muri1.png, id=180, 208.1376pt x 205.2468pt>
+ [9 <./iowa.pdf>]
+<muri1.png, id=371, 208.1376pt x 205.2468pt>
 File: muri1.png Graphic file (type png)
-
-<use muri1.png>
-Package pdftex.def Info: muri1.png used on input line 540.
+ <use muri1.png>
+Package pdftex.def Info: muri1.png used on input line 663.
 (pdftex.def)             Requested size: 208.1466pt x 205.25566pt.
- [8 <./muri1.png>] <chaos1.png, id=197, 463.9734pt x 281.853pt>
+ [10]
+<chaos1.png, id=388, 463.9734pt x 281.853pt>
 File: chaos1.png Graphic file (type png)
-
-<use chaos1.png>
-Package pdftex.def Info: chaos1.png used on input line 607.
+ <use chaos1.png>
+Package pdftex.def Info: chaos1.png used on input line 730.
 (pdftex.def)             Requested size: 274.62688pt x 166.8294pt.
- <chaos2.png, id=198, 517.935pt x 348.8232pt>
+
+<chaos2.png, id=389, 517.935pt x 348.8232pt>
 File: chaos2.png Graphic file (type png)
  <use chaos2.png>
-Package pdftex.def Info: chaos2.png used on input line 613.
+Package pdftex.def Info: chaos2.png used on input line 736.
 (pdftex.def)             Requested size: 274.63858pt x 184.9659pt.
-
-[9 <./chaos1.png>] <twoion1.png, id=213, 557.9244pt x 172.4844pt>
+ [11 <./muri1.png>] [12 <./chaos1.png> <./chaos2.png>]
+<twoion1.png, id=413, 557.9244pt x 172.4844pt>
 File: twoion1.png Graphic file (type png)
-
-<use twoion1.png>
-Package pdftex.def Info: twoion1.png used on input line 647.
+ <use twoion1.png>
+Package pdftex.def Info: twoion1.png used on input line 770.
 (pdftex.def)             Requested size: 361.35254pt x 111.71347pt.
- <twoion2.png, id=214, 418.6842pt x 310.2792pt>
-File: twoion2.png Graphic file (type png)
 
-<use twoion2.png>
-Package pdftex.def Info: twoion2.png used on input line 656.
+<twoion2.png, id=414, 418.6842pt x 310.2792pt>
+File: twoion2.png Graphic file (type png)
+ <use twoion2.png>
+Package pdftex.def Info: twoion2.png used on input line 779.
 (pdftex.def)             Requested size: 318.00525pt x 235.66788pt.
- [10 <./chaos2.png>] [11 <./twoion1.png> <./twoion2.png>]
-<ropes1.png, id=235, 568.0422pt x 179.2296pt>
+ [13 <./twoion1.png> <./twoion2.png>] <ropes1.png, id=427, 568.0422pt x 179.229
+6pt>
 File: ropes1.png Graphic file (type png)
- <use ropes1.png>
-Package pdftex.def Info: ropes1.png used on input line 691.
+
+<use ropes1.png>
+Package pdftex.def Info: ropes1.png used on input line 814.
 (pdftex.def)             Requested size: 361.35286pt x 114.01462pt.
 Missing character: There is no � in font zplmr7y!
 Missing character: There is no � in font zplmr7y!
-
-<ropes2.png, id=239, 237.5274pt x 229.8186pt>
+ <ropes2.png, id=431, 237.5274pt x 229.8186pt>
 File: ropes2.png Graphic file (type png)
- <use ropes2.png>
-Package pdftex.def Info: ropes2.png used on input line 715.
+
+<use ropes2.png>
+Package pdftex.def Info: ropes2.png used on input line 838.
 (pdftex.def)             Requested size: 237.53043pt x 229.82153pt.
- [12 <./ropes1.png>] [13 <./ropes2.png>]
-LaTeX Font Info:    Try loading font information for TS1+pplx on input line 829
-.
+ [14 <./ropes1.png>] [15 <./ropes2.png>]
+<rotation1.pdf, id=459, 864.22874pt x 653.44125pt>
+File: rotation1.pdf Graphic file (type pdf)
+ <use rotation1.pdf>
+Package pdftex.def Info: rotation1.pdf used on input line 918.
+(pdftex.def)             Requested size: 252.94083pt x 191.24794pt.
+Missing character: There is no � in font zplmr7y!
+Missing character: There is no � in font zplmr7y!
+Missing character: There is no � in font zplmr7y!
+ [16 <./rotation1.pdf>] <nonmodal.pdf, id=489, 505.89pt x 231.86626pt>
+File: nonmodal.pdf Graphic file (type pdf)
+
+<use nonmodal.pdf>
+Package pdftex.def Info: nonmodal.pdf used on input line 962.
+(pdftex.def)             Requested size: 252.94437pt x 115.93283pt.
+ [17 <./nonmodal.pdf>]
+LaTeX Font Info:    Try loading font information for TS1+pplx on input line 103
+5.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ts1pplx.fd
 File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
-) [14] [15]
-[16] [17] [18] (./project_description.bblpdfTeX warning (ext4): destination wit
+) [18] [19]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1177.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\beta' on input line 1177.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1177.
+
+[20] [21] [22] (./project_description.bblpdfTeX warning (ext4): destination wit
 h the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.96 \bibitem{bandt:2002}
-                          [1])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1072.
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+l.99 
+      [1]pdfTeX warning (ext4): destination with the same identifier (name{page
+.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.188 \bibitem{Auerbach:2011}
+                              [2]pdfTeX warning (ext4): destination with the sa
+me identifier (name{page.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.282 \bibitem{vincena:2010}
+                             [3]pdfTeX warning (ext4): destination with the sam
+e identifier (name{page.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.377 \bibitem{popovich:2010a}
+                               [4])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1309.
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1072 \end{document}
-                      [2]pdfTeX warning (ext4): destination with the same ident
-ifier (name{page.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1072 \end{document}
-                      [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1072.
+l.1309 \end{document}
+                      [5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1309.
  (./project_description.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1072.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1072.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1309.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1309.
 
 Package rerunfilecheck Info: File `project_description.out' has not changed.
-(rerunfilecheck)             Checksum: 4C72D4FA87DCA0EBB3FEA3A715AE92BA;10443.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1072.
+(rerunfilecheck)             Checksum: 6DB89C3FF0246DD30C4BF63ED7E00A32;12204.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1309.
  ) 
 Here is how much of TeX's memory you used:
- 13168 strings out of 493109
- 187628 string characters out of 6135003
- 280200 words of memory out of 5000000
- 16079 multiletter control sequences out of 15000+600000
- 49927 words of font info for 261 fonts, out of 8000000 for 9000
+ 13398 strings out of 493109
+ 191481 string characters out of 6135003
+ 283440 words of memory out of 5000000
+ 16227 multiletter control sequences out of 15000+600000
+ 53090 words of font info for 287 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 31i,6n,35p,1073b,489s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31i,6n,35p,1088b,669s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/tex
 live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
 ive/2014/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb></usr/local/texlive/2
 014/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texlive/2014/
-texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2014/texmf-d
-ist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2014/texmf-dist/fon
-ts/type1/urw/palatino/uplri8a.pfb>
-Output written on project_description.pdf (21 pages, 2611934 bytes).
+texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2
+014/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2014/tex
+mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2014/texmf-dist
+/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on project_description.pdf (27 pages, 4026255 bytes).
 PDF statistics:
- 346 PDF objects out of 1000 (max. 8388607)
- 295 compressed objects within 3 object streams
- 86 named destinations out of 1000 (max. 500000)
- 16638 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 682 PDF objects out of 1000 (max. 8388607)
+ 475 compressed objects within 5 object streams
+ 137 named destinations out of 1000 (max. 500000)
+ 16682 words of extra memory for PDF output out of 17280 (max. 10000000)
 
-=======
-
-
-LaTeX Warning: Reference `shock1' on page 5 undefined on input line 394.
-
-
-LaTeX Warning: Reference `shock1' on page 5 undefined on input line 409.
-
-
-LaTeX Warning: Reference `shock1' on page 5 undefined on input line 417.
-
-
-LaTeX Warning: Reference `shock1' on page 5 undefined on input line 420.
-
-
-Package natbib Warning: Citation `clark:2014' on page 5 undefined on input line
- 429.
-
-
-./project_description.tex:436: LaTeX Error: Not in outer par mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.436 \begin{figure}[!htbp]
-                           
-? 
-<bortnik1.png, id=33, 500.5902pt x 214.401pt>
-File: bortnik1.png Graphic file (type png)
- <use bortnik1.png>
-Package pdftex.def Info: bortnik1.png used on input line 437.
-(pdftex.def)             Requested size: 252.94499pt x 108.33543pt.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 447.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 447.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 447.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 447.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 447.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 447.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 447.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 447.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 4.59999pt on input line 447.
-LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <9> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 447.
-
-
-./project_description.tex:479: Package inputenc Error: Unicode char \u8:ω not 
-set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.479 k}
-        \textsubscript{∥} \emph{v\textsubscript{beam}}\textsubscript{∥}
-? 
-
-./project_description.tex:479: Package inputenc Error: Unicode char \u8:∥ not
- set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.479 k}\textsubscript{∥}
-                            \emph{v\textsubscript{beam}}\textsubscript{∥}
-? 
-
-./project_description.tex:479: Package inputenc Error: Unicode char \u8:∥ not
- set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.479 ...v\textsubscript{beam}}\textsubscript{∥}
-                                                  
-? 
-LaTeX Font Info:    Try loading font information for TS1+pplx on input line 480
-.
-(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ts1pplx.fd
-File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
-)
-
-./project_description.tex:513: Package inputenc Error: Unicode char \u8:≈ not
- set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.513 ...magnetic mirror section (mirror ratio ≈
-                                                   2, length = 3.5
-? 
-
-./project_description.tex:517: Package inputenc Error: Unicode char \u8:δ not 
-set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.517 source (δ
-                B/B\textsubscript{0} ≈ 0.1\%, λ\textsubscript{∥} ≈ 9 m).
-
-? 
-
-./project_description.tex:517: Package inputenc Error: Unicode char \u8:≈ not
- set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.517 source (δB/B\textsubscript{0} ≈
-                                         0.1\%, λ\textsubscript{∥} ≈ 9 m).
-
-? 
-
-./project_description.tex:517: Package inputenc Error: Unicode char \u8:λ not 
-set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.517 source (δB/B\textsubscript{0} ≈ 0.1\%, λ
-                                                  \textsubscript{∥} ≈ 9 m).
-
-? 
-
-./project_description.tex:517: Package inputenc Error: Unicode char \u8:∥ not
- set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.517 ...cript{0} ≈ 0.1\%, λ\textsubscript{∥}
-                                                   ≈ 9 m).
-? 
-
-./project_description.tex:517: Package inputenc Error: Unicode char \u8:≈ not
- set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.517 ...t{0} ≈ 0.1\%, λ\textsubscript{∥} ≈
-                                                   9 m).
-? 
-
-LaTeX Warning: File `media/image3.png' not found on input line 562.
-
-
-./project_description.tex:562: Package pdftex.def Error: File `media/image3.png
-' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.562 \includegraphics{media/image3.png}
-                                         & Fig 1: Time series of x-ray flux
-? 
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 562.
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Overfull \hbox (1888.65446pt too wide) in alignment at lines 560--571
- [] [] 
- []
-
-
-Overfull \hbox (1888.65446pt too wide) in alignment at lines 571--573
- [] [] 
- []
-
-
-Underfull \vbox (badness 10000) detected at line 573
- []
-
-
-./project_description.tex:601: Package inputenc Error: Unicode char \u8:∼ not
- set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.601 source that produces a long (∼
-                                      8 m), narrow (∼5mm in radius) temper...
-
-? 
-
-./project_description.tex:601: Package inputenc Error: Unicode char \u8:∼ not
- set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.601 ...hat produces a long (∼8 m), narrow (∼
-                                                  5mm in radius) temperature
-? 
-
-LaTeX Warning: File `media/image4.png' not found on input line 625.
-
-
-./project_description.tex:625: Package pdftex.def Error: File `media/image4.png
-' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.625 \includegraphics{media/image4.png}
-                                        
-? 
-
-LaTeX Warning: File `media/image5.png' not found on input line 630.
-
-
-./project_description.tex:630: Package pdftex.def Error: File `media/image5.png
-' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.630 \includegraphics{media/image5.png}
-                                        
-? 
-
-LaTeX Warning: File `media/image6.png' not found on input line 686.
-
-
-./project_description.tex:686: Package pdftex.def Error: File `media/image6.png
-' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.686 \includegraphics{media/image6.png}
-                                        
-? 
-
-LaTeX Warning: File `media/image7.png' not found on input line 693.
-
-
-./project_description.tex:693: Package pdftex.def Error: File `media/image7.png
-' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.693 \includegraphics{media/image7.png}
-                                        
-? 
-
-LaTeX Warning: File `media/image8.emf' not found on input line 698.
-
-
-./project_description.tex:698: LaTeX Error: Unknown graphics extension: .emf.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.698 ... width \includegraphics{media/image8.emf}
-                                                   at
-? 
-
-LaTeX Warning: File `media/image9.tiff' not found on input line 777.
-
-
-./project_description.tex:777: LaTeX Error: Unknown graphics extension: .tiff.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.777 \includegraphics{media/image9.tiff}
-                                          The first ever experimental
-? 
-
-LaTeX Warning: File `media/image10.emf' not found on input line 806.
-
-
-./project_description.tex:806: LaTeX Error: Unknown graphics extension: .emf.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.806 field, \includegraphics{media/image10.emf}
-                                                was measured using a
-? 
-
-LaTeX Warning: File `media/image11.emf' not found on input line 808.
-
-
-./project_description.tex:808: LaTeX Error: Unknown graphics extension: .emf.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.808 \includegraphics{media/image11.emf}
-                                         , was derived from the data and can
-? 
-
-LaTeX Warning: File `media/image12.emf' not found on input line 813.
-
-
-./project_description.tex:813: LaTeX Error: Unknown graphics extension: .emf.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.813 ...t and \includegraphics{media/image12.emf}
-                                                  
-? 
-
-LaTeX Warning: File `media/image13.tiff' not found on input line 824.
-
-
-./project_description.tex:824: LaTeX Error: Unknown graphics extension: .tiff.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.824 \includegraphics{media/image13.tiff}
-                                          
-? 
-
-LaTeX Warning: File `media/image14.emf' not found on input line 837.
-
-
-./project_description.tex:837: LaTeX Error: Unknown graphics extension: .emf.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.837 ...beta, \includegraphics{media/image14.emf}
-                                                  , and Lundquist number
-? 
-
-LaTeX Warning: File `media/image15.emf' not found on input line 972.
-
-
-./project_description.tex:972: LaTeX Error: Unknown graphics extension: .emf.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.972 field, \includegraphics{media/image15.emf}
-                                                was measured using a
-? 
-
-LaTeX Warning: File `media/image16.emf' not found on input line 974.
-
-
-./project_description.tex:974: LaTeX Error: Unknown graphics extension: .emf.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.974 \includegraphics{media/image16.emf}
-                                         , was derived from the data and can
-? 
-
-LaTeX Warning: File `media/image17.emf' not found on input line 992.
-
-
-./project_description.tex:992: LaTeX Error: Unknown graphics extension: .emf.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.992 \includegraphics{media/image17.emf}
-                                         , and Lundquist number
-? 
-
-Package natbib Warning: There were undefined citations.
-
-
-./project_description.tex:1173: LaTeX Error: \begin{figure} on input line 386 e
-nded by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1173 \end{document}
-                     
-? 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1173.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1173.
-(./project_description.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1173.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1173.
-
-
-
-Package rerunfilecheck Warning: File `project_description.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `project_description.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  FBD6673E9972B4D0BA10118AB3F060D7;1383.
-
-LaTeX Warning: There were undefined references.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1173.
-./project_description.tex:1173: You can't use `\end' in internal vertical mode.
-
-\enddocument ...es \z@ \Call@AtVeryVeryEnd \@@end 
-                           
->>>>>>> origin/master
