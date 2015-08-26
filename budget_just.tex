@@ -1,0 +1,184 @@
+\documentclass[11pt]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+    \usepackage{xltxtra,xunicode}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\usepackage[usenames,dvipsnames]{color}
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={},
+            pdftitle={},
+            colorlinks=true,
+            citecolor=blue,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{longtable,booktabs}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+
+\date{}
+
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+\setlength{\oddsidemargin}{-0.1in}
+\setlength{\topmargin}{-0.52truein} 
+\setlength{\textheight}{9.15in} 
+\setlength{\textwidth}{6.7in}
+
+\usepackage[T1]{fontenc}
+\usepackage{fourier}
+\usepackage[sc]{mathpazo}
+\linespread{1.05}         % Palatino needs more leading (space between lines)
+\newcommand\Alfven{Alfv\'en }
+\newcommand{\V}[1]{\mathbf{#1}} 
+
+
+\usepackage{wrapfig}
+\usepackage[square,numbers,sort&compress]{natbib}
+\renewcommand{\cite}{\citep}
+%\usepackage[psamsfonts]{amssymb}
+%\usepackage{palatino}
+%\usepackage{mathpazo}
+\usepackage{plasmadefs}
+
+\hyphenation{wave-packet wave-packets}
+
+
+
+\begin{document}
+
+\section*{Budget Justification}
+
+\subsection*{Personnel and Benefits}
+The major component of the budget is related to salaries. In the first
+year regular salaries, together with overhead and benefits, and
+salaries associated with fabrication (under “High Tech Shop Costs”)
+amount to \$1.48M. This amount covers summer months for the PIs who are
+faculty members. Full-year support for the research staff, and the
+administrative and technical support staff is also included. The
+support staff consists of an experienced engineer, a full time
+machinist and an expert on circuit design, construction, who is also
+adept at building microscopically small probes. As the facility
+supports some of the research of the local group, three full-time
+graduate students are included in the budget.  The specific salaries
+and benefits for each individual are determined by strict guidelines
+set by the University of California and subject to rigorous
+review. Each listed salary is based on the individual’s current level
+and increased each year for cost of living and merit increase (5\% cola
+for academic personnel, 4\% cola for staff, 7\% for faculty merit
+increases which occur every few years). Benefits are the actual
+benefits of each employee.  
+
+
+\subsection*{Equipment and Fabrication}
+ Each year there
+is \$60k allotted for continuing modification to current equipment
+(scopes, pumps, signal generators). The actual needs in this category
+vary from year to year.  Each year, equipment in support of
+user experiments and campaigns is designed and constructed by the
+BaPSF staff. The planned fabrication items are called out in the
+budget, but include plasma sources, amplifiers, high-power switches
+and probes.  There is a budget item for upgrade of the facility
+equipment (e.g., scopes, meters). This is necessary, as there comes a
+time when it is not cost effective to repair old equipment and it must
+be replaced. In the first year we plan to purchase a high frequency
+vector network analyzer. These are invaluable in the calibration and
+testing of probes and circuits. Several experiments at BaPSF are now
+in high frequency (electron plasma and electron cyclotron) regimes and
+an analyzer capable of operation at up to 20 GHz is necessary.  
+
+\subsection*{Travel}
+
+The travel budget allows the PIs and staff to attend major national
+scientific meetings such as APS-DPP and to participate international
+meetings such as the International Conference on Plasma Physics
+(ICPP), the Interrelationship of Plasma Experiments in the Laboratory
+and Space (IPELS), the Trieste Summer School on Plasma Physics and
+major topical workshops. Travel to these various meetings is necessary
+to present the work done at BaPSF to wide audiences and to fulfill the
+“Broader Impact” goals of the proposal.  
+
+\subsection*{Other Direct Costs}
+
+The materials and supplies category includes \$35K for necessary small
+replacement parts as well as \$30K for electrical supplies. \$30K has
+been allocated for scientific publications as a result of this
+project. The additional direct costs include the following: - \$100k
+allotted each year for partial payment of electricity costs; UCLA
+absorbs the balance.  - There are three laser systems (two Nd-Yag
+lasers and a pulsed tunable dye laser) used in support of several
+experiments and for diagnostics. All the lasers must be kept under
+service contract, as a single repair on any of them equals the price
+of a year- long service contract. The lasers are fragile and usually
+break more than once a year. The service contract also includes a
+yearly alignment to bring the laser up to its quoted
+specifications. \$30K is budgeted for this each year - UCLA’s mandatory
+Technology infrastructure fee which is \$40.75 per month for each FTE
+paid by this project - \$15K per year for telecommunications
+expenses. All expenses for phone lines and conference calls are
+related to the research done in this lab and are budgeted in this
+grant.  - Mandatory Graduate student fee remissions in the amount of
+\$10,410 for Year 1 and inflated for subsequent years.  Overhead
+Overhead in the amount of 54\% has been added to all items excluding
+equipment, fabrication, and Graduate Student Fee remission as per
+UCLA’s negotiated rate.  
+
+
+
+\subsubsection*{UCLA Contribution}
+
+ Aside from the usage of
+nearly an entire building (the Science and Technology Research
+Building) on Campus the Dean of the College of Letters and Science has
+promised one quarter of teaching relief each year for the director of
+the BaPSF.
