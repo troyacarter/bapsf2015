@@ -304,8 +304,8 @@ S.~T. Vincena, W.~A. Farmer, J.~E. Maggs, and G.~J. Morales.
 
 \bibitem{farmer:2013}
 W.~A. Farmer and G.~J. Morales.
-\newblock Propagation of shear alvén waves in two-ion species plasmas confined
-  by a nonuniform magnetic field.
+\newblock Propagation of shear alvÃ©n waves in two-ion species plasmas
+  confined by a nonuniform magnetic field.
 \newblock {\em Physics of Plasmas}, 20(8):--, 2013.
 
 \bibitem{farmer:2014}
@@ -436,6 +436,23 @@ B.~D. Scott.
 \newblock Self-sustained collisional drift-wave turbulence in a sheared
   magnetic field.
 \newblock {\em Phys. Rev. Lett.}, 65:3289, 1990.
+
+\bibitem{hasegawa76}
+Akira Hasegawa and Liu Chen.
+\newblock Kinetic processes in plasma heating by resonant mode conversion of
+  alfvén wave.
+\newblock {\em Physics of Fluids (1958-1988)}, 19(12):1924--1934, 1976.
+
+\bibitem{lysak96}
+Robert~L. Lysak and William Lotko.
+\newblock On the kinetic dispersion relation for shear alfvén waves.
+\newblock {\em Journal of Geophysical Research: Space Physics},
+  101(A3):5085--5094, 1996.
+
+\bibitem{barnes66}
+Aaron Barnes.
+\newblock Collisionless damping of hydromagnetic waves.
+\newblock 9(8):1483--1495, 1966.
 
 \bibitem{vancompernolle:2015b}
 B.~Van~Compernolle, G.~J. Morales, J.~E. Maggs, and R.~D. Sydora.

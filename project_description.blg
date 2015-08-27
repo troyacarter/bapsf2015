@@ -3,44 +3,48 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: project_description.aux
 The style file: unsrt.bst
 Database file #1: refs.bib
-You've used 71 entries,
+Warning--string name "pof" is undefined
+--line 1163 of file refs.bib
+Warning--empty journal in barnes66
+You've used 74 entries,
             1791 wiz_defined-function locations,
-            851 strings with 17251 characters,
-and the built_in function-call counts, 17897 in all, are:
-= -- 1313
-> -- 1248
+            868 strings with 17608 characters,
+and the built_in function-call counts, 18632 in all, are:
+= -- 1383
+> -- 1268
 < -- 0
-+ -- 442
-- -- 371
-* -- 1608
-:= -- 3116
-add.period$ -- 212
-call.type$ -- 71
-change.case$ -- 70
++ -- 450
+- -- 376
+* -- 1667
+:= -- 3227
+add.period$ -- 221
+call.type$ -- 74
+change.case$ -- 73
 chr.to.int$ -- 0
-cite$ -- 71
-duplicate$ -- 635
-empty$ -- 1550
-format.name$ -- 371
-if$ -- 3748
+cite$ -- 75
+duplicate$ -- 662
+empty$ -- 1628
+format.name$ -- 376
+if$ -- 3911
 int.to.chr$ -- 0
-int.to.str$ -- 71
-missing$ -- 70
-newline$ -- 357
-num.names$ -- 70
-pop$ -- 78
+int.to.str$ -- 74
+missing$ -- 73
+newline$ -- 372
+num.names$ -- 73
+pop$ -- 83
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 228
+skip$ -- 239
 stack$ -- 0
-substring$ -- 1129
-swap$ -- 71
+substring$ -- 1214
+swap$ -- 73
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 0
-while$ -- 144
-width$ -- 73
-write$ -- 779
+warning$ -- 1
+while$ -- 151
+width$ -- 76
+write$ -- 811
+(There were 2 warnings)
