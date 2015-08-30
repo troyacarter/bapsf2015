@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  29 AUG 2015 22:10
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  29 AUG 2015 23:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1118,13 +1118,13 @@ File: lab6cartoon.jpg Graphic file (type jpg)
 Package pdftex.def Info: lab6cartoon.jpg used on input line 128.
 (pdftex.def)             Requested size: 433.59027pt x 251.79457pt.
 
-<ETPD.jpg, id=78, 2768.3425pt x 1698.345pt>
+<ETPD.jpg, id=79, 2768.3425pt x 1698.345pt>
 File: ETPD.jpg Graphic file (type jpg)
  <use ETPD.jpg>
 Package pdftex.def Info: ETPD.jpg used on input line 142.
 (pdftex.def)             Requested size: 459.96716pt x 282.18434pt.
 
-<etpd2.jpg, id=79, 2914.89pt x 1403.2425pt>
+<etpd2.jpg, id=80, 2914.89pt x 1403.2425pt>
 File: etpd2.jpg Graphic file (type jpg)
  <use etpd2.jpg>
 Package pdftex.def Info: etpd2.jpg used on input line 148.
@@ -1133,7 +1133,7 @@ Package pdftex.def Info: etpd2.jpg used on input line 148.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4 <./ETPD.jpg>] <etchtool.jpg, id=91, 1534.73375pt x 1438.37375pt>
+[4 <./ETPD.jpg>] <etchtool.jpg, id=92, 1534.73375pt x 1438.37375pt>
 File: etchtool.jpg Graphic file (type jpg)
 
 <use etchtool.jpg>
@@ -1143,66 +1143,67 @@ Package pdftex.def Info: etchtool.jpg used on input line 168.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<smpd.jpg, id=93, 3007.235pt x 1555.8125pt>
+<smpd.jpg, id=94, 3007.235pt x 1555.8125pt>
 File: smpd.jpg Graphic file (type jpg)
  <use smpd.jpg>
 Package pdftex.def Info: smpd.jpg used on input line 180.
 (pdftex.def)             Requested size: 411.55739pt x 212.92188pt.
 
-<laptag.jpg, id=95, 1588.93625pt x 1187.43625pt>
+<laptag.jpg, id=96, 1588.93625pt x 1187.43625pt>
 File: laptag.jpg Graphic file (type jpg)
  <use laptag.jpg>
 Package pdftex.def Info: laptag.jpg used on input line 191.
 (pdftex.def)             Requested size: 363.14436pt x 271.3833pt.
  [5 <./etpd2.jpg>] [6 <./etchtool.jpg>] [7 <./smpd.jpg> <./laptag.jpg>]
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 204.
-LaTeX Font Info:    Try loading font information for TS1+pplx on input line 208
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 203.
+LaTeX Font Info:    Try loading font information for TS1+pplx on input line 207
 .
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ts1pplx.fd
 File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
-) [8]
-<ionbeam_and_wave.jpg, id=116, 2264.46pt x 870.25125pt>
+)
+<ionbeamsource.jpg, id=116, 1208.515pt x 903.375pt>
+File: ionbeamsource.jpg Graphic file (type jpg)
+ <use ionbeamsource.jpg>
+Package pdftex.def Info: ionbeamsource.jpg used on input line 228.
+(pdftex.def)             Requested size: 459.99654pt x 343.85123pt.
+
+<ionbeam_and_wave.jpg, id=117, 2264.46pt x 870.25125pt>
 File: ionbeam_and_wave.jpg Graphic file (type jpg)
 
 <use ionbeam_and_wave.jpg>
-Package pdftex.def Info: ionbeam_and_wave.jpg used on input line 230.
+Package pdftex.def Info: ionbeam_and_wave.jpg used on input line 234.
 (pdftex.def)             Requested size: 459.96732pt x 176.76935pt.
- [9 <./ionbeam_and_wave.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 251.
- [10]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 251.
-
-(./facilities_and_inf.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 251.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 251.
+ [8] [9] [10 <./ionbeamsource.jpg> <./ionbeam_and_wave.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 255.
+ [11]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 255.
+ (./facilities_and_inf.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 255.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 255.
 Package rerunfilecheck Info: File `facilities_and_inf.out' has not changed.
 (rerunfilecheck)             Checksum: CB71A05ED57EE463578B107D3BF0B37A;2673.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 251.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 255.
  ) 
 Here is how much of TeX's memory you used:
- 12855 strings out of 493315
- 183602 string characters out of 6137904
- 277410 words of memory out of 5000000
- 15894 multiletter control sequences out of 15000+600000
- 43338 words of font info for 202 fonts, out of 8000000 for 9000
+ 12858 strings out of 493315
+ 183696 string characters out of 6137904
+ 280700 words of memory out of 5000000
+ 15899 multiletter control sequences out of 15000+600000
+ 43115 words of font info for 199 fonts, out of 8000000 for 9000
  959 hyphenation exceptions out of 8191
- 31i,9n,35p,1524b,349s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31i,9n,35p,1521b,349s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/tex
 live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
 ive/2013/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/201
 3/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2013/texmf
 -dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on facilities_and_inf.pdf (10 pages, 3829350 bytes).
+Output written on facilities_and_inf.pdf (11 pages, 4219032 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
- 128 compressed objects within 2 object streams
- 32 named destinations out of 1000 (max. 500000)
- 10385 words of extra memory for PDF output out of 12000 (max. 10000000)
+ 165 PDF objects out of 1000 (max. 8388607)
+ 136 compressed objects within 2 object streams
+ 34 named destinations out of 1000 (max. 500000)
+ 10390 words of extra memory for PDF output out of 12000 (max. 10000000)
 
