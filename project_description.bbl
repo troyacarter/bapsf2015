@@ -601,6 +601,30 @@ M.R. Stoneking, S.A. Hokin, S.C. Prager, G.~Fiksel, H.~Ji, and D.J. den Hartog.
 \newblock Particle transport due to magnetic fluctuations.
 \newblock {\em Phys. Rev. Lett.}, 73:549, 1994.
 
+\bibitem{hollweg71}
+Joseph~V Hollweg.
+\newblock Nonlinear landau damping of {A}lfv\'en waves.
+\newblock {\em Phys. Rev. Lett.}, 27:1349--1352, 1971.
+
+\bibitem{schekochihin09}
+A~A Schekochihin, S~C Cowley, W~Dorland, G~W Hammett, G~G Howes, E~Quataert,
+  and T~Tatsuno.
+\newblock Astrophysical gyrokinetics: Kinetic and fluid turbulent cascades in
+  magnetized weakly collisional plasmas.
+\newblock {\em The Astrophysical Journal Supplement Series}, 182(1):310, 2009.
+
+\bibitem{boldyrev13}
+Stanislav Boldyrev, Konstantinos Horaites, Qian Xia, and Jean~Carlos Perez.
+\newblock Toward a theory of astrophysical plasma turbulence at subproton
+  scales.
+\newblock {\em The Astrophysical Journal}, 777(1):41, 2013.
+
+\bibitem{vincena01}
+S.~Vincena, W.~Gekelman, and J.~Maggs.
+\newblock Shear {A}lfv\'{e}n waves in a magnetic beach and the roles of
+  electron and ion damping.
+\newblock {\em Phys. Plasmas}, 8:3884, 2001.
+
 \bibitem{auerbach:2010}
 DW~Auerbach, TA~Carter, S~Vincena, and P~Popovich.
 \newblock Control of gradient-driven instabilities using shear alfv{\'e}n beat

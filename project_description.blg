@@ -5,45 +5,45 @@ The style file: unsrt.bst
 Database file #1: refs.bib
 Warning--I didn't find a database entry for ""
 Warning--can't use both volume and number fields in bowers:2009
-You've used 119 entries,
+You've used 123 entries,
             1791 wiz_defined-function locations,
-            1092 strings with 25511 characters,
-and the built_in function-call counts, 30559 in all, are:
-= -- 2313
-> -- 2015
+            1112 strings with 26182 characters,
+and the built_in function-call counts, 31456 in all, are:
+= -- 2383
+> -- 2067
 < -- 2
-+ -- 715
-- -- 596
-* -- 2682
-:= -- 5248
-add.period$ -- 357
-call.type$ -- 119
-change.case$ -- 118
++ -- 734
+- -- 611
+* -- 2755
+:= -- 5403
+add.period$ -- 369
+call.type$ -- 123
+change.case$ -- 122
 chr.to.int$ -- 0
-cite$ -- 120
-duplicate$ -- 1082
-empty$ -- 2696
-format.name$ -- 596
-if$ -- 6433
+cite$ -- 124
+duplicate$ -- 1118
+empty$ -- 2780
+format.name$ -- 611
+if$ -- 6625
 int.to.chr$ -- 0
-int.to.str$ -- 119
-missing$ -- 118
-newline$ -- 597
-num.names$ -- 118
-pop$ -- 130
+int.to.str$ -- 123
+missing$ -- 122
+newline$ -- 617
+num.names$ -- 122
+pop$ -- 134
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 398
+skip$ -- 410
 stack$ -- 0
-substring$ -- 2171
-swap$ -- 135
+substring$ -- 2225
+swap$ -- 139
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 1
-while$ -- 246
-width$ -- 122
-write$ -- 1309
+while$ -- 254
+width$ -- 126
+write$ -- 1353
 (There were 2 warnings)
