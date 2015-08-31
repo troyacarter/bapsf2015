@@ -160,6 +160,12 @@ A.~Bovet, I.~Furno, A.~Fasoli, K.~Gustafson, and P.~Ricci.
 \newblock Investigation of fast ion transport in {TORPEX}.
 \newblock {\em Nuclear Fusion}, 52(9):094017, 2012.
 
+\bibitem{tripathi:2015}
+SKP Tripathi, B~Van~Compernolle, W~Gekelman, P~Pribyl, and W~Heidbrink.
+\newblock Excitation of shear alfv{\'e}n waves by a spiraling ion beam in a
+  large magnetoplasma.
+\newblock {\em Physical Review E}, 91(1):013109, 2015.
+
 \bibitem{Iroshnikov:1963}
 R.~S. Iroshnikov.
 \newblock The turbulence of a conducting fluid in a strong magnetic field.
@@ -185,7 +191,7 @@ C.~A. {Kletzing}, D.~J. {Thuecks}, F.~{Skiff}, S.~R. {Bounds}, and
   Finite Perpendicular Wave Number}.
 \newblock {\em Phys. Rev. Lett.}, 104(9):095001--+, 2010.
 
-\bibitem{Auerbach:2011}
+\bibitem{auerbach:2011}
 D.~W. {Auerbach}, T.~A. {Carter}, S.~{Vincena}, and P.~{Popovich}.
 \newblock {Resonant drive and nonlinear suppression of gradient-driven
   instabilities via interaction with shear {A}lfv{\'e}n waves}.
@@ -536,6 +542,83 @@ B.~Van~Compernolle, G.~J. Morales, J.~E. Maggs, and R.~D. Sydora.
 \newblock Laboratory study of avalanches in magnetized plasmas.
 \newblock {\em Phys. Rev. E}, 91:031102, 2015.
 
+\bibitem{dalf99}
+F.~Jenko and B.~Scott.
+\newblock Numerical computation of collisionless drift {A}lfv\'{e}n turbulence.
+\newblock {\em Physics of Plasmas}, 6:2705, 1999.
+
+\bibitem{morales99}
+G.J. Morales, J.E. Maggs, A.T Burke, et~al.
+\newblock {A}lfv\'{e}nic turbulence associated with density and temperature
+  filaments.
+\newblock {\em Plasma Phys. Contr. Fusion}, 41:A519, 1999.
+
+\bibitem{burke00}
+A.T. Burke, J.E. Maggs, and G.J. Morales.
+\newblock Spontaneous fluctuations of a temperature filament in a magnetized
+  plasma.
+\newblock {\em Phys. Rev. Lett.}, 84:1451, 2000.
+
+\bibitem{zweben79}
+S.~J. Zweben, C.~R. Menyuk, and R.~J. Taylor.
+\newblock Small-scale magnetic fluctuations inside the macrotor tokamak.
+\newblock {\em Phys. Rev. Lett.}, 42:1270, 1979.
+
+\bibitem{ppcf01}
+F.~Jenko and W.~Dorland.
+\newblock Nonlinear electromagnetic gyrokinetic simulations of tokamak plasmas.
+\newblock {\em Plasma Phys. Contr. Fusion}, 43:A141, 2001.
+
+\bibitem{em1}
+M.~J. Pueschel, M.~Kammerer, and F.~Jenko.
+\newblock Gyrokinetic turbulence simulations at high plasma beta.
+\newblock {\em Physics of Plasmas}, 15:102310, 2008.
+
+\bibitem{em2}
+M.~J. Pueschel and F.~Jenko.
+\newblock Gyrokinetic turbulence simulations at high plasma beta.
+\newblock {\em Physics of Plasmas}, 17:062307, 2010.
+
+\bibitem{stress1}
+V.~Naulin.
+\newblock Electromagnetic transport components and sheared flows in
+  drift-{A}lfv\'{e}n turbulence.
+\newblock {\em Physics of Plasmas}, 10:4016, 2003.
+
+\bibitem{stress2}
+V.~Naulin, A.~Kendl, O.~E. Garcia, A.~H. Nielsen, and J.~J. Rasmussen.
+\newblock Shear flow generation and energetics in electromagnetic turbulence.
+\newblock {\em Physics of Plasmas}, 12:052515, 2005.
+
+\bibitem{liewer85}
+P.C. Liewer, J.M. McChesney, S.J. Zweben, and R.W. Gould.
+\newblock Temperature fluctuations and heat transport in the edge region of a
+  tokamak.
+\newblock {\em Phys. Fluids}, 29:309, 1985.
+
+\bibitem{stoneking94}
+M.R. Stoneking, S.A. Hokin, S.C. Prager, G.~Fiksel, H.~Ji, and D.J. den Hartog.
+\newblock Particle transport due to magnetic fluctuations.
+\newblock {\em Phys. Rev. Lett.}, 73:549, 1994.
+
+\bibitem{auerbach:2010}
+DW~Auerbach, TA~Carter, S~Vincena, and P~Popovich.
+\newblock Control of gradient-driven instabilities using shear alfv{\'e}n beat
+  waves.
+\newblock {\em Physical Review Letters}, 105(13):135005, 2010.
+
+\bibitem{dorfman:2013}
+S~Dorfman and TA~Carter.
+\newblock Nonlinear excitation of acoustic modes by large-amplitude alfv{\'e}n
+  waves in a laboratory plasma.
+\newblock {\em Physical Review Letters}, 110(19):195001, 2013.
+
+\bibitem{dorfman:2015}
+S~Dorfman and TA~Carter.
+\newblock Non-linear alfv{\'e}n wave interaction leading to resonant excitation
+  of an acoustic mode in the laboratory.
+\newblock {\em Physics of Plasmas}, 22(5):055706, 2015.
+
 \bibitem{bale05}
 S.~D. Bale, P.~J. Kellogg, F.~S. Mozer, T.~S. Horbury, and H.~Reme.
 \newblock Measurement of the electric fluctuation spectrum of
@@ -556,12 +639,6 @@ JW~Armstrong, BJ~Rickett, and SR~Spangler.
 Steven~A Balbus and John~F Hawley.
 \newblock Instability, turbulence, and enhanced transport in accretion disks.
 \newblock {\em Reviews of Modern Physics}, 70(1):1, 1998.
-
-\bibitem{auerbach:2010}
-DW~Auerbach, TA~Carter, S~Vincena, and P~Popovich.
-\newblock Control of gradient-driven instabilities using shear alfv{\'e}n beat
-  waves.
-\newblock {\em Physical Review Letters}, 105(13):135005, 2010.
 
 \bibitem{nielson:2010}
 Kevin~D Nielson, Gregory~G Howes, Tomoya Tatsuno, Ryusuke Numata, and William
