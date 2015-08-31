@@ -1,0 +1,149 @@
+\documentclass[11pt]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+    \usepackage{xltxtra,xunicode}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\usepackage[usenames,dvipsnames]{color}
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={},
+            pdftitle={},
+            colorlinks=true,
+            citecolor=blue,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{longtable,booktabs}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+
+\date{}
+
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+\setlength{\oddsidemargin}{-0.1in}
+\setlength{\topmargin}{-0.52truein} 
+\setlength{\textheight}{9.15in} 
+\setlength{\textwidth}{6.7in}
+
+\usepackage[T1]{fontenc}
+\usepackage{fourier}
+\usepackage[sc]{mathpazo}
+\linespread{1.05}         % Palatino needs more leading (space between lines)
+\newcommand\Alfven{Alfv\'en }
+\newcommand{\V}[1]{\mathbf{#1}} 
+
+
+\usepackage{wrapfig}
+\usepackage[square,numbers,sort&compress]{natbib}
+\renewcommand{\cite}{\citep}
+%\usepackage[psamsfonts]{amssymb}
+%\usepackage{palatino}
+%\usepackage{mathpazo}
+\usepackage{plasmadefs}
+
+\hyphenation{wave-packet wave-packets}
+
+\title{}
+
+\begin{document}
+
+A renewal proposal is made to continue operation of the Basic Plasma
+Science Facility (BaPSF) at the University of California, Los Angeles
+(UCLA), and to support the vigorous research program of the BaPSF
+scientific staff, as well as to continue the improvements in
+scientific instrumentation required to maintain worldwide leadership
+in fundamental plasma research. BaPSF provides national and
+international scientists access to unique research devices and
+diagnostic tools that permit the exploration of a wide range of
+fundamental plasma problems that impact topics at the frontiers of
+fusion, space science and plasma technology. The broad parameter
+ranges accessible in the plasma devices operated at BaPSF allow
+studies that span microscopic phenomena on the fast electron time
+scales (e.g., electron plasma waves, cyclotron radiation) to the slow
+time scales characteristic of plasma transport driven by drift-wave
+turbulence and long wavelength magnetic fluctuations.  Qualified
+researchers and research teams from universities, national
+laboratories and industry can perform experiments at BaPSF, free of
+charge, upon approval of their proposals by the BaPSF Scientific
+Council composed of senior scientists broadly representative of the
+plasma community. The BaPSF plasma devices provide effective platforms
+for the training of graduate students because of their optimum,
+mid-scale size. They also provide a fertile environment for the
+development of young professors by allowing them to focus entirely on
+scientific research without the burden of hardware maintenance and
+construction. BaPSF also operates a small, dedicated plasma device to
+train high school teachers and students enrolled in the outreach
+LAPTAG program.  
+
+{\bfseries Intellectual Merit}:  The BaPSF allows the detailed
+study, under controlled conditions, of fundamental questions in plasma
+science that cannot be addressed in any other laboratory. The results
+obtained impact a wide range of frontier topics in fusion and space
+plasma research. It also lays the foundation for future developments
+in plasma technology. Through creative development of plasma sources
+and the operation of complementary plasma devices exploited through
+focused campaigns, the operation of BaPSF constitutes a transformative
+concept within plasma science.  
+
+{\bfseries Broader Impacts}:  One of the broader
+impacts of the BaPSF is that it provides unique opportunities in the
+training of young researchers from both large and small institutions,
+as well as high school students and teachers. BaPSF fosters and
+engenders collaborations between domestic and international
+institutions and scientists from diverse areas, such as fusion, space
+and industrial applications. The topical campaigns made possible by
+BaPSF provides a forum for the interaction of experimentalists,
+theoreticians and modelers from varied backgrounds, promoting the
+cross-fertilization of ideas and techniques.
+
+\end{document}
