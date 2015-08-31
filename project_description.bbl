@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
 
 \bibitem{laptag}
 http://plasmalab.pbworks.com.
@@ -332,6 +332,16 @@ B.~Van~Compernolle, W.~Gekelman, P.~Pribyl, and C.~M. Cooper.
   with a lanthanum hexaboride cathode.
 \newblock {\em Physics of Plasmas}, 18(12):123501, 2011.
 
+\bibitem{maggs:2003}
+JE~Maggs and GJ~Morales.
+\newblock Laboratory realization of an alfv{\'e}n wave maser.
+\newblock {\em Physical Review Letters}, 91(3):035004, 2003.
+
+\bibitem{maggs:2005}
+James~E Maggs, GJ~Morales, and TA~Carter.
+\newblock An alfv{\'e}n wave maser in the laboratory.
+\newblock {\em Physics of Plasmas}, 12(1):013103, 2005.
+
 \bibitem{gekelman:2014}
 Walter Gekelman, Bart~Van Compernolle, Tim DeHaas, and Stephen Vincena.
 \newblock Chaos in magnetic flux ropes.
@@ -489,10 +499,133 @@ C.~M. Cooper, W.~Gekelman, P.~Pribyl, and Z.~Lucky.
 \newblock A new large area lanthanum hexaboride plasma source.
 \newblock {\em Review of Scientific Instruments}, 81(8):083503, 2010.
 
+\bibitem{finn:2014}
+JM~Finn, Z~Billey, W~Daughton, and E~Zweibel.
+\newblock Quasi-separatrix layer reconnection for nonlinear line-tied
+  collisionless tearing modes.
+\newblock {\em Plasma Physics and Controlled Fusion}, 56(6):064013, 2014.
+
+\bibitem{daughton:2014}
+W~Daughton, TKM Nakamura, H~Karimabadi, V~Roytershteyn, and B~Loring.
+\newblock Computing the reconnection rate in turbulent kinetic layers by using
+  electron mixing to identify topology.
+\newblock {\em Physics of Plasmas}, 21(5):052307, 2014.
+
+\bibitem{bowers:2009}
+Kevin~J Bowers, Brian~J Albright, Lin Yin, W~Daughton, Vadim Roytershteyn,
+  B~Bergen, and TJT Kwan.
+\newblock Advances in petascale kinetic plasma simulation with vpic and
+  roadrunner.
+\newblock In {\em Journal of Physics: Conference Series}, volume 180, page
+  012055. IOP Publishing, 2009.
+
+\bibitem{loureiro:2007}
+NF~Loureiro, AA~Schekochihin, and SC~Cowley.
+\newblock Instability of current sheets and formation of plasmoid chains.
+\newblock {\em Physics of Plasmas}, 14(10):100703, 2007.
+
+\bibitem{daughton:2009}
+W~Daughton, V~Roytershteyn, BJ~Albright, H~Karimabadi, L~Yin, and Kevin~J
+  Bowers.
+\newblock Transition from collisional to kinetic regimes in large-scale
+  reconnection layers.
+\newblock {\em Physical Review Letters}, 103(6):065004, 2009.
+
 \bibitem{vancompernolle:2015b}
 B.~Van~Compernolle, G.~J. Morales, J.~E. Maggs, and R.~D. Sydora.
 \newblock Laboratory study of avalanches in magnetized plasmas.
 \newblock {\em Phys. Rev. E}, 91:031102, 2015.
+
+\bibitem{bale05}
+S.~D. Bale, P.~J. Kellogg, F.~S. Mozer, T.~S. Horbury, and H.~Reme.
+\newblock Measurement of the electric fluctuation spectrum of
+  magnetohydrodynamic turbulence.
+\newblock {\em Phys. Rev. Lett.}, 94:215002, 2005.
+
+\bibitem{alexandrova08}
+O~Alexandrova, V~Carbone, P~Veltri, and L~Sorriso-Valvo.
+\newblock Small-scale energy cascade of the solar wind turbulence.
+\newblock {\em Astrophysical Journal}, 674(2):1153, 2008.
+
+\bibitem{armstrong95}
+JW~Armstrong, BJ~Rickett, and SR~Spangler.
+\newblock Electron density power spectrum in the local interstellar medium.
+\newblock {\em The Astrophysical Journal}, 443:209--221, 1995.
+
+\bibitem{balbus98}
+Steven~A Balbus and John~F Hawley.
+\newblock Instability, turbulence, and enhanced transport in accretion disks.
+\newblock {\em Reviews of Modern Physics}, 70(1):1, 1998.
+
+\bibitem{auerbach:2010}
+DW~Auerbach, TA~Carter, S~Vincena, and P~Popovich.
+\newblock Control of gradient-driven instabilities using shear alfv{\'e}n beat
+  waves.
+\newblock {\em Physical Review Letters}, 105(13):135005, 2010.
+
+\bibitem{nielson:2010}
+Kevin~D Nielson, Gregory~G Howes, Tomoya Tatsuno, Ryusuke Numata, and William
+  Dorland.
+\newblock Numerical modeling of large plasma device alfv{\'e}n wave experiments
+  using astrogk.
+\newblock {\em Physics of Plasmas (1994-present)}, 17(2):022105, 2010.
+
+\bibitem{howes:2012}
+GG~Howes, DJ~Drake, KD~Nielson, TA~Carter, CA~Kletzing, and F~Skiff.
+\newblock Toward astrophysical turbulence in the laboratory.
+\newblock {\em Physical Review Letters}, 109(25):255001, 2012.
+
+\bibitem{howes:2013}
+GG~Howes, KD~Nielson, DJ~Drake, JWR Schroeder, F~Skiff, CA~Kletzing, and
+  TA~Carter.
+\newblock Alfv{\'e}n wave collisions, the fundamental building block of plasma
+  turbulence. iii. theory for experimental design.
+\newblock {\em Physics of Plasmas}, 20(7):072304, 2013.
+
+\bibitem{jaeger:2008}
+Erwin~Frederick Jaeger, Lee~A Berry, Ed~F D’Azevedo, Richard~F Barrett,
+  SD~Ahern, David~W Swain, Donald~B Batchelor, RW~Harvey, JR~Myra,
+  DA~D’ippolito, et~al.
+\newblock Simulation of high-power electromagnetic wave heating in the iter
+  burning plasma.
+\newblock {\em Physics of Plasmas}, 15(7):072513, 2008.
+
+\bibitem{wallace:2011}
+GM~Wallace, AE~Hubbard, PT~Bonoli, IC~Faust, RW~Harvey, JW~Hughes,
+  BL~LaBombard, O~Meneghini, RR~Parker, AE~Schmidt, et~al.
+\newblock Lower hybrid current drive at high density in alcator c-mod.
+\newblock {\em Nuclear Fusion}, 51(8):083032, 2011.
+
+\bibitem{jacquet:2011}
+Philippe Jacquet, L~Colas, M-L Mayoral, G~Arnoux, V~Bobkov, M~Brix, P~Coad,
+  A~Czarnecka, D~Dodt, F~Durodie, et~al.
+\newblock Heat loads on jet plasma facing components from icrf and lh wave
+  absorption in the sol.
+\newblock {\em Nuclear Fusion}, 51(10):103018, 2011.
+
+\bibitem{wukitch:2007}
+Stephen~J Wukitch, B~Lipschultz, E~Marmar, Y~Lin, A~Parisot, M~Reinke, J~Rice,
+  J~Terry, and C-Mod Team.
+\newblock Rf plasma edge interactions and their impact on icrf antenna
+  performance in alcator c-mod.
+\newblock {\em Journal of nuclear materials}, 363:491--497, 2007.
+
+\bibitem{rost:2002}
+Jon~Christian Rost, Miklos Porkolab, and R{\'e}jean~Louis Boivin.
+\newblock Edge ion heating and parametric decay during injection of ion
+  cyclotron resonance frequency power on the alcator c-mod tokamak.
+\newblock {\em Physics of Plasmas}, 9(4):1262--1270, 2002.
+
+\bibitem{ochoukov:2013}
+R~Ochoukov, DG~Whyte, D~Brunner, I~Cziegler, B~LaBombard, B~Lipschultz, J~Myra,
+  J~Terry, and S~Wukitch.
+\newblock Investigation of rf-enhanced plasma potentials on alcator c-mod.
+\newblock {\em Journal of Nuclear Materials}, 438:S875--S878, 2013.
+
+\bibitem{dippolito:2013}
+DA~D'Ippolito, JR~Myra, R~Ochoukov, and DG~Whyte.
+\newblock Modeling far-field radio-frequency sheaths in alcator c-mod.
+\newblock {\em Plasma Physics and Controlled Fusion}, 55(8):085001, 2013.
 
 \bibitem{gekelman:2007}
 Walter Gekelman, J.~Wise, P.~Pribyl, R.~Baker, W.~Layton, J.~Skrzypek,

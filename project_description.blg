@@ -1,48 +1,54 @@
 This is BibTeX, Version 0.99d (TeX Live 2014)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: project_description.aux
+Case mismatch error between cite keys auerbach:2011 and Auerbach:2011
+---line 135 of file project_description.aux
+ : \citation{carter:2006,auerbach:2010,auerbach:2011
+ :                                                  ,dorfman:2013,}
+I'm skipping whatever remains of this command
 The style file: unsrt.bst
 Database file #1: refs.bib
 Warning--I didn't find a database entry for ""
-You've used 83 entries,
+Warning--can't use both volume and number fields in bowers:2009
+You've used 105 entries,
             1791 wiz_defined-function locations,
-            921 strings with 19436 characters,
-and the built_in function-call counts, 21515 in all, are:
-= -- 1613
-> -- 1440
-< -- 0
-+ -- 511
-- -- 428
-* -- 1913
-:= -- 3706
-add.period$ -- 248
-call.type$ -- 83
-change.case$ -- 82
+            1029 strings with 23686 characters,
+and the built_in function-call counts, 27522 in all, are:
+= -- 2066
+> -- 1856
+< -- 2
++ -- 657
+- -- 552
+* -- 2456
+:= -- 4728
+add.period$ -- 315
+call.type$ -- 105
+change.case$ -- 104
 chr.to.int$ -- 0
-cite$ -- 83
-duplicate$ -- 742
-empty$ -- 1891
-format.name$ -- 428
-if$ -- 4512
+cite$ -- 106
+duplicate$ -- 956
+empty$ -- 2403
+format.name$ -- 552
+if$ -- 5778
 int.to.chr$ -- 0
-int.to.str$ -- 83
-missing$ -- 82
-newline$ -- 417
-num.names$ -- 82
-pop$ -- 90
+int.to.str$ -- 105
+missing$ -- 104
+newline$ -- 527
+num.names$ -- 104
+pop$ -- 116
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 267
+skip$ -- 351
 stack$ -- 0
-substring$ -- 1564
-swap$ -- 83
-text.length$ -- 0
+substring$ -- 1973
+swap$ -- 121
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 0
-while$ -- 170
-width$ -- 85
-write$ -- 911
-(There was 1 warning)
+warning$ -- 1
+while$ -- 218
+width$ -- 108
+write$ -- 1155
+(There was 1 error message)

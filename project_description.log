@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.21)  29 AUG 2015 16:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.21)  30 AUG 2015 19:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**project_description
+**project_description.tex
 (./project_description.tex
 LaTeX2e <2014/05/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
@@ -1140,124 +1140,153 @@ Package pdftex.def Info: bortnik1.png used on input line 475.
 Missing character: There is no ç in font zplmr7y!
 Missing character: There is no ç in font zplmr7y!
 
-[7 <./bortnik1.png>] <fastion.pdf, id=202, 473.91756pt x 436.73463pt>
+<fastion.pdf, id=183, 473.91756pt x 436.73463pt>
 File: fastion.pdf Graphic file (type pdf)
-
-<use fastion.pdf>
-Package pdftex.def Info: fastion.pdf used on input line 542.
+ <use fastion.pdf>
+Package pdftex.def Info: fastion.pdf used on input line 512.
 (pdftex.def)             Requested size: 252.9468pt x 233.10094pt.
- [8 <./fastion.pdf>]
-<iowa.pdf, id=357, 475.7775pt x 362.36578pt>
+ [7 <./bortnik1.png>] [8 <./fastion.pdf>] <iowa.pdf, id=357, 475.7775pt x 362.3
+6578pt>
 File: iowa.pdf Graphic file (type pdf)
- <use iowa.pdf>
-Package pdftex.def Info: iowa.pdf used on input line 604.
+
+<use iowa.pdf>
+Package pdftex.def Info: iowa.pdf used on input line 588.
 (pdftex.def)             Requested size: 252.94492pt x 192.6501pt.
- [9]
+ [9 <./iowa.pdf>] <muri1.png, id=484, 208.1376pt x 205.2468pt>
+File: muri1.png Graphic file (type png)
+
+<use muri1.png>
+Package pdftex.def Info: muri1.png used on input line 656.
+(pdftex.def)             Requested size: 208.1466pt x 205.25566pt.
 Missing character: There is no É in font zplmr7y!
 Missing character: There is no ç in font zplmr7y!
- [10 <./iowa.pdf>] <muri1.png, id=492, 208.1376pt x 205.2468pt>
-File: muri1.png Graphic file (type png)
- <use muri1.png>
-Package pdftex.def Info: muri1.png used on input line 685.
-(pdftex.def)             Requested size: 208.1466pt x 205.25566pt.
- [11 <./muri1.png>] <chaos.pdf, id=508, 925.01787pt x 295.237pt>
+ [10 <./muri1.png>]
+<chaos.pdf, id=502, 925.01787pt x 295.237pt>
 File: chaos.pdf Graphic file (type pdf)
  <use chaos.pdf>
-Package pdftex.def Info: chaos.pdf used on input line 752.
+Package pdftex.def Info: chaos.pdf used on input line 762.
 (pdftex.def)             Requested size: 433.61517pt x 138.3965pt.
- [12 <./chaos.pdf>] <twoion.pdf, id=626, 802.32346pt x 178.12447pt>
+ [11]
+<twoion.pdf, id=518, 802.32346pt x 178.12447pt>
 File: twoion.pdf Graphic file (type pdf)
  <use twoion.pdf>
-Package pdftex.def Info: twoion.pdf used on input line 789.
+Package pdftex.def Info: twoion.pdf used on input line 799.
 (pdftex.def)             Requested size: 448.07382pt x 99.47722pt.
+ [12 <./chaos.pdf> <./twoion.pdf
 
-<ropes.pdf, id=630, 851.80232pt x 229.79953pt>
+pdfTeX warning: pdflatex (file ./twoion.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
+>] <ropes.pdf, id=710, 851.80232pt x 229.79953pt>
 File: ropes.pdf Graphic file (type pdf)
  <use ropes.pdf>
-Package pdftex.def Info: ropes.pdf used on input line 826.
+Package pdftex.def Info: ropes.pdf used on input line 836.
 (pdftex.def)             Requested size: 448.07375pt x 120.88148pt.
 Missing character: There is no ç in font zplmr7y!
 Missing character: There is no ç in font zplmr7y!
- [13 <./twoion.pdf>] [14 <./ropes.pdf>] <rotation.pdf, id=799, 782.61182pt x 27
-4.3339pt>
+ [13 <./ropes.pdf>] <rotation.pdf, id=795, 782.61182pt x 274.3339pt>
 File: rotation.pdf Graphic file (type pdf)
-
-<use rotation.pdf>
-Package pdftex.def Info: rotation.pdf used on input line 919.
+ <use rotation.pdf>
+Package pdftex.def Info: rotation.pdf used on input line 931.
 (pdftex.def)             Requested size: 448.0757pt x 157.06682pt.
 Missing character: There is no Ç in font zplmr7y!
 Missing character: There is no É in font zplmr7y!
 Missing character: There is no ç in font zplmr7y!
- [15 <./rotation.pdf>] [16]
-<lab6.pdf, id=869, 973.30827pt x 478.72853pt>
+
+[14] [15 <./rotation.pdf>] <lab6.pdf, id=869, 973.30827pt x 478.72853pt>
 File: lab6.pdf Graphic file (type pdf)
- <use lab6.pdf>
-Package pdftex.def Info: lab6.pdf used on input line 1044.
+
+<use lab6.pdf>
+Package pdftex.def Info: lab6.pdf used on input line 1056.
 (pdftex.def)             Requested size: 433.61835pt x 213.27823pt.
 
-Overfull \hbox (6.67227pt too wide) in paragraph at lines 1053--1073
+Overfull \hbox (6.67227pt too wide) in paragraph at lines 1065--1085
 [][] 
  []
 
-[17 <./lab6.pdf>] [18] <lab6-proposal.png, id=928, 855.195pt x 538.01pt>
+[16] [17 <./lab6.pdf>] <lab6-proposal.png, id=922, 855.195pt x 538.01pt>
 File: lab6-proposal.png Graphic file (type png)
 
 <use lab6-proposal.png>
-Package pdftex.def Info: lab6-proposal.png used on input line 1156.
+Package pdftex.def Info: lab6-proposal.png used on input line 1168.
 (pdftex.def)             Requested size: 289.07912pt x 181.86197pt.
- [19 <./lab6-proposal.png>] [20]
+ [18] [19 <./lab6-proposal.png>]
+<tearing.png, id=948, 145.0218pt x 247.6452pt>
+File: tearing.png Graphic file (type png)
+ <use tearing.png>
+Package pdftex.def Info: tearing.png used on input line 1230.
+(pdftex.def)             Requested size: 145.02365pt x 247.64835pt.
+
+Overfull \hbox (0.75801pt too wide) in paragraph at lines 1249--1262
+\T1/pplx/m/n/10.95 (-20) be given to ex-plor-ing any con-nec-tion to the ``plas
+-moid''
+ []
+
+[20 <./tearing.png>]
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 1261.
+(Font)              scaled to size 12.50409pt on input line 1319.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 1261.
+(Font)              scaled to size 12.50409pt on input line 1319.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 1261.
+(Font)              scaled to size 11.03998pt on input line 1319.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1261.
+(hyperref)                removing `math shift' on input line 1319.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\beta' on input line 1261.
+(hyperref)                removing `subscript' on input line 1319.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1261.
+(hyperref)                removing `math shift' on input line 1319.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1264.
+(hyperref)                removing `math shift' on input line 1334.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\beta' on input line 1264.
+(hyperref)                removing `\beta' on input line 1334.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1264.
+(hyperref)                removing `math shift' on input line 1334.
+
+[21]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1377.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1307.
+(hyperref)                removing `\beta' on input line 1377.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\beta' on input line 1307.
+(hyperref)                removing `math shift' on input line 1377.
+
+[22]
+
+Package natbib Warning: Citation `auerbach:2011' on page 23 undefined on input 
+line 1436.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1307.
+Package natbib Warning: Citation `dorfman:2013' on page 23 undefined on input l
+ine 1436.
 
-[21] [22] <laptag_fig.pdf, id=957, 850.1371pt x 272.99893pt>
+
+Package natbib Warning: Citation `' on page 23 undefined on input line 1436.
+
+[23] <laptag_fig.pdf, id=1011, 850.1371pt x 272.99893pt>
 File: laptag_fig.pdf Graphic file (type pdf)
-
-<use laptag_fig.pdf>
-Package pdftex.def Info: laptag_fig.pdf used on input line 1420.
+ <use laptag_fig.pdf>
+Package pdftex.def Info: laptag_fig.pdf used on input line 1489.
 (pdftex.def)             Requested size: 433.61607pt x 139.24426pt.
- [23 <./laptag_fig.pdf>] [24] (./project_description.bblpdfTeX warning (ext4): 
-destination with the same identifier (name{page.1}) has been already used, dupl
-icate ignored
+
+[24 <./laptag_fig.pdf>] [25] (./project_description.bblpdfTeX warning (ext4): d
+estination with the same identifier (name{page.1}) has been already used, dupli
+cate ignored
 <to be read again> 
                    \relax 
 l.99 
@@ -1270,42 +1299,55 @@ l.187
 e.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.287 
+l.281 
        [3]pdfTeX warning (ext4): destination with the same identifier (name{pag
 e.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.377 \bibitem{popovich:2010a}
-                               [4]pdfTeX warning (ext4): destination with the s
-ame identifier (name{page.5}) has been already used, duplicate ignored
+l.380 
+       [4]pdfTeX warning (ext4): destination with the same identifier (name{pag
+e.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.480 
-       [5])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1499.
-pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+l.478 
+       [5]pdfTeX warning (ext4): destination with the same identifier (name{pag
+e.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.565 
+       [6]pdfTeX warning (ext4): destination with the same identifier (name{pag
+e.7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.649 \end{thebibliography}
+                            [7])
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1568.
+pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1499 \end{document}
-                      [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1499.
+l.1568 \end{document}
+                      [8]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1568.
  (./project_description.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1499.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1499.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1568.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1568.
 
 Package rerunfilecheck Info: File `project_description.out' has not changed.
-(rerunfilecheck)             Checksum: DE312DA3F4E735CC0C4181AEDBC084EC;13193.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1499.
+(rerunfilecheck)             Checksum: 0D51F09B63843BBE4A20182E09BE1BF7;13564.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1568.
  ) 
 Here is how much of TeX's memory you used:
- 13549 strings out of 493109
- 193738 string characters out of 6135003
- 287723 words of memory out of 5000000
- 16325 multiletter control sequences out of 15000+600000
- 75830 words of font info for 351 fonts, out of 8000000 for 9000
+ 13651 strings out of 493109
+ 195532 string characters out of 6135003
+ 291052 words of memory out of 5000000
+ 16399 multiletter control sequences out of 15000+600000
+ 74310 words of font info for 353 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 32i,12n,35p,1084b,739s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,12n,35p,1088b,851s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/tex
 live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
@@ -1315,10 +1357,10 @@ texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2
 014/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2014/tex
 mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2014/texmf-dist
 /fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on project_description.pdf (30 pages, 10135402 bytes).
+Output written on project_description.pdf (33 pages, 10549526 bytes).
 PDF statistics:
- 1145 PDF objects out of 1200 (max. 8388607)
- 574 compressed objects within 6 object streams
- 158 named destinations out of 1000 (max. 500000)
- 26925 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 1212 PDF objects out of 1440 (max. 8388607)
+ 635 compressed objects within 7 object streams
+ 182 named destinations out of 1000 (max. 500000)
+ 26930 words of extra memory for PDF output out of 29859 (max. 10000000)
 
