@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.21)  27 AUG 2015 14:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.21)  30 AUG 2015 20:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**budget_just_doe.tex
+**budget_just_doe
 (./budget_just_doe.tex
 LaTeX2e <2014/05/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
@@ -1125,19 +1125,19 @@ Package rerunfilecheck Info: File `budget_just_doe.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 225.
  ) 
 Here is how much of TeX's memory you used:
- 12769 strings out of 493109
- 182497 string characters out of 6135003
+ 12753 strings out of 493109
+ 182361 string characters out of 6135003
  273888 words of memory out of 5000000
  15919 multiletter control sequences out of 15000+600000
- 33100 words of font info for 137 fonts, out of 8000000 for 9000
+ 32208 words of font info for 125 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 31i,5n,35p,240b,339s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31i,5n,35p,236b,339s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2014/te
 xmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2014/texmf-dist/f
 onts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/ty
 pe1/urw/palatino/uplr8a.pfb>
-Output written on budget_just_doe.pdf (2 pages, 72322 bytes).
+Output written on budget_just_doe.pdf (2 pages, 72398 bytes).
 PDF statistics:
  39 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream

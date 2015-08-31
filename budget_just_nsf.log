@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.21)  27 AUG 2015 14:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.21)  30 AUG 2015 20:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**budget_just_nsf.tex
+**budget_just_nsf
 (./budget_just_nsf.tex
 LaTeX2e <2014/05/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
@@ -925,8 +925,7 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count122
 )
-(/Users/tcarter/Documents/tex/STY/plasmadefs.sty)
-No file budget_just_nsf.aux.
+(/Users/tcarter/Documents/tex/STY/plasmadefs.sty) (./budget_just_nsf.aux)
 \openout1 = `budget_just_nsf.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
@@ -943,6 +942,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 98.
 LaTeX Font Info:    ... okay on input line 98.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 98.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 98.
+
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
@@ -1008,6 +1008,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 98.
 LaTeX Info: Redefining \pageref on input line 98.
 LaTeX Info: Redefining \nameref on input line 98.
+
+(./budget_just_nsf.out) (./budget_just_nsf.out)
 \@outlinefile=\write3
 \openout3 = `budget_just_nsf.out'.
 
@@ -1061,31 +1063,24 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 196.
 (./budget_just_nsf.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 196.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 196.
-
-
-Package rerunfilecheck Warning: File `budget_just_nsf.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `budget_just_nsf.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `budget_just_nsf.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 196.
  ) 
 Here is how much of TeX's memory you used:
- 12591 strings out of 493109
- 179271 string characters out of 6135003
- 273757 words of memory out of 5000000
+ 12577 strings out of 493109
+ 179224 string characters out of 6135003
+ 273888 words of memory out of 5000000
  15813 multiletter control sequences out of 15000+600000
- 19937 words of font info for 85 fonts, out of 8000000 for 9000
+ 18822 words of font info for 70 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 31i,5n,35p,240b,339s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31i,5n,35p,236b,339s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2014/te
 xmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2014/texmf-dist/f
 onts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/ty
 pe1/urw/palatino/uplr8a.pfb>
-Output written on budget_just_nsf.pdf (2 pages, 68922 bytes).
+Output written on budget_just_nsf.pdf (2 pages, 68975 bytes).
 PDF statistics:
  39 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
