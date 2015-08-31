@@ -601,6 +601,28 @@ M.R. Stoneking, S.A. Hokin, S.C. Prager, G.~Fiksel, H.~Ji, and D.J. den Hartog.
 \newblock Particle transport due to magnetic fluctuations.
 \newblock {\em Phys. Rev. Lett.}, 73:549, 1994.
 
+\bibitem{horne:2007}
+Richard~B Horne, Richard~M Thorne, Sarah~A Glauert, Nigel~P Meredith, Dimitry
+  Pokhotelov, and Ond{\v{r}}ej Santol{\'\i}k.
+\newblock Electron acceleration in the van allen radiation belts by fast
+  magnetosonic waves.
+\newblock {\em Geophysical Research Letters}, 34(17), 2007.
+
+\bibitem{gorelenkov:2010}
+NN~Gorelenkov, D~Stutman, K~Tritz, A~Boozer, L~Delgado-Aparicio, E~Fredrickson,
+  S~Kaye, and R~White.
+\newblock Anomalous electron transport due to multiple high frequency beam ion
+  driven alfv{\'e}n eigenmodes.
+\newblock {\em Nuclear Fusion}, 50(8):084012, 2010.
+
+\bibitem{jaeger:2008}
+Erwin~Frederick Jaeger, Lee~A Berry, Ed~F D’Azevedo, Richard~F Barrett,
+  SD~Ahern, David~W Swain, Donald~B Batchelor, RW~Harvey, JR~Myra,
+  DA~D’ippolito, et~al.
+\newblock Simulation of high-power electromagnetic wave heating in the iter
+  burning plasma.
+\newblock {\em Physics of Plasmas}, 15(7):072513, 2008.
+
 \bibitem{hollweg71}
 Joseph~V Hollweg.
 \newblock Nonlinear landau damping of {A}lfv\'en waves.
@@ -682,14 +704,6 @@ GG~Howes, KD~Nielson, DJ~Drake, JWR Schroeder, F~Skiff, CA~Kletzing, and
 \newblock Alfv{\'e}n wave collisions, the fundamental building block of plasma
   turbulence. iii. theory for experimental design.
 \newblock {\em Physics of Plasmas}, 20(7):072304, 2013.
-
-\bibitem{jaeger:2008}
-Erwin~Frederick Jaeger, Lee~A Berry, Ed~F D’Azevedo, Richard~F Barrett,
-  SD~Ahern, David~W Swain, Donald~B Batchelor, RW~Harvey, JR~Myra,
-  DA~D’ippolito, et~al.
-\newblock Simulation of high-power electromagnetic wave heating in the iter
-  burning plasma.
-\newblock {\em Physics of Plasmas}, 15(7):072513, 2008.
 
 \bibitem{wallace:2011}
 GM~Wallace, AE~Hubbard, PT~Bonoli, IC~Faust, RW~Harvey, JW~Hughes,
