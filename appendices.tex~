@@ -1,0 +1,168 @@
+\documentclass[11pt]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+    \usepackage{xltxtra,xunicode}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\usepackage[usenames,dvipsnames]{color}
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={},
+            pdftitle={},
+            colorlinks=true,
+            citecolor=blue,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{longtable,booktabs}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+
+\date{}
+
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+\setlength{\oddsidemargin}{-0.1in}
+\setlength{\topmargin}{-0.52truein} 
+\setlength{\textheight}{9.15in} 
+\setlength{\textwidth}{6.7in}
+
+\usepackage[T1]{fontenc}
+\usepackage{fourier}
+\usepackage[sc]{mathpazo}
+\linespread{1.05}         % Palatino needs more leading (space between lines)
+
+
+\usepackage{wrapfig}
+\usepackage[square,numbers,sort&compress]{natbib}
+\renewcommand{\cite}{\citep}
+%\usepackage[psamsfonts]{amssymb}
+%\usepackage{palatino}
+%\usepackage{mathpazo}
+
+%\usepackage{plasmadefs}
+
+\hyphenation{wave-packet wave-packets}
+
+\title{}
+
+\begin{document}
+
+\subsection{Graduate students currently engaged in research using BaPSF}
+
+\begin{tabbing}
+Student \hspace{0.8in} \=  Institution/Group \hspace{2.1in} \= Mentor(s) \\
+\\
+Xin An \> UCLA Atmospheric and Oceanic Science \> J. Bortnick\\
+Anton Bondarenko \> UCLA/Phoenix \> C. Niemann\\
+Jeffrey Bonde \> UCLA/BaPSF \> W. Gekelman, S. Vincena \\
+S. Eric Clark \> UCLA/Phoenix \> C. Niemann\\
+Paul Crandall \> UCLA \> F. Jenko \\
+Tim DeHaas \> UCLA/BaPSF \> W. Gekelman \\
+Erik Everson \> UCLA/Phoenix \> C. Niemann\\
+Daniel Guice \> UCLA/BaPSF \> T. Carter \\
+Dooran Hong \> UCLA/BaPSF \> W. Gekelman\\
+Mike Martin \> UCLA/BaPSF \> W. Gekelman, T. Carter \\
+Samuel Nogami \> WVU \> M. Koepke \\
+Adam Preweisch \> UC Irvine \> W. Heidbrink\\
+Jeffrey Robertson \> UCLA/BaPSF \> T. Carter \\
+Giovanni Rossi \> UCLA/BaPSF \> T. Carter \\
+James Schroeder \> U. Iowa \> C. Kletzing, F. Skiff, G. Howes \\
+\end{tabbing}
+
+
+\subsection{Advanced degrees granted, last 5 year period}
+
+ \begin{tabbing}
+Student \hspace{0.65in} \= Degree \hspace{0.1in} \= Granting institution \hspace{1.5in} \= Graduate advisor\hspace{0.3in} \= Year \\
+\\
+Nathaniel Moore  \> Ph.D. \>  University of California, Los Angeles \> W. Gekelman \> 2015\\
+Yiting Zhang \> Ph.D. \> University of Michigan \> M. Kushner \> 2015\\
+William Farmer	 \> Ph.D. \>  University of California, Los Angeles \> G. Morales \> 2014\\
+Adam Kullberg	 \> Ph.D. \>  University of California, Los Angeles \> G. Morales \> 2014\\
+Derek Schaeffer  \> Ph.D. \>  University of California, Los Angeles \> C. Niemann \> 2014\\
+Kris Kersten \> Ph.D. \> University of Minnesota \> C. Cattell \> 2014\\
+Brett Friedman \> Ph.D. \>  University of California, Los Angeles \> T. Carter \> 2013\\
+David Schaffner \> Ph.D. \>  University of California, Los Angeles \> T. Carter \> 2013\\
+Yuhou Wang  \> Ph.D. \>  University of California, Los Angeles \> W. Gekelman \> 2013\\
+Chris Cooper  \> Ph.D. \>  University of California, Los Angeles \> W. Gekelman \> 2012\\
+David Auerbach  \> Ph.D. \>  University of California, Los Angeles \> T. Carter \> 2012\\
+Shu Zhou \> PhD. \> University of California, Irvine \> W. Heidbrink
+\>  2011 \\
+Gregoire Hornung \> M.S. \> Gent Universiteit, Belgium \> G. Van Oost;
+J. Maggs, G. Morales \> 2010 \\
+Andrew Collette \> Ph.D. \>  University of California, Los Angeles \> W. Gekelman \> 2010\\
+Kim De Rose\> M.S. \>  University of California, Los Angeles \> W. Gekelman \> 2010\\
+Brett Jacobs \> Ph.D. \>  University of California, Los Angeles \> W. Gekelman \> 2010\\
+Alexey Karavaev \> Ph.D. \>  University of Maryland \> K. Papadopoulos \> 2010\\
+Nathan Kugland \> PhD. \> University of California, Los Angeles \> C. Niemann \> 2010\\
+Eric Lawrence \> Ph.D. \>  University of California, Los Angeles \>
+W. Gekelman \> 2010\\
+Franklin Chaing \> Ph.D. \> University of California, Los Angeles \>
+J. Judy
+\> 2010 \\
+ \end{tabbing}
+ 
+
+
+%\newpage
+
+%\setcounter{page}{1}
+
+%\bibliographystyle{unsrtnat}
+%\bibliographystyle{prsty}
+%\bibliographystyle{unsrt}
+%\bibliography{refs}  
+
+
+
+
+\end{document}
