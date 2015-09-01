@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  1 SEP 2015 12:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  1 SEP 2015 14:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1173,7 +1173,7 @@ live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
 ive/2015/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/201
 5/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2015/texmf
 -dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on appendices.pdf (10 pages, 97149 bytes).
+Output written on appendices.pdf (10 pages, 97142 bytes).
 PDF statistics:
  210 PDF objects out of 1000 (max. 8388607)
  191 compressed objects within 2 object streams
