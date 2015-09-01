@@ -3,11 +3,10 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: project_description.aux
 The style file: unsrt.bst
 Database file #1: refs.bib
-Warning--I didn't find a database entry for ""
 Warning--can't use both volume and number fields in bowers:2009
 You've used 125 entries,
             1791 wiz_defined-function locations,
-            1122 strings with 26676 characters,
+            1117 strings with 26491 characters,
 and the built_in function-call counts, 31960 in all, are:
 = -- 2415
 > -- 2113
@@ -46,4 +45,4 @@ warning$ -- 1
 while$ -- 257
 width$ -- 128
 write$ -- 1375
-(There were 2 warnings)
+(There was 1 warning)
