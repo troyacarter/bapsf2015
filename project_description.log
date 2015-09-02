@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.21)  1 SEP 2015 01:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.21)  2 SEP 2015 11:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**project_description.tex
+**project_description
 (./project_description.tex
 LaTeX2e <2014/05/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
@@ -1053,57 +1053,57 @@ LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <12> not available
 (Font)              Font shape `T1/pplx/b/n' tried instead on input line 246.
  [3] [4]
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 370.
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 401
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 371.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 400
 .
  (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 401
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 400
 .
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 401
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 400
 .
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 401
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 400
 .
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 401.
+(Font)              scaled to size 11.40997pt on input line 400.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 401.
+(Font)              scaled to size 8.33606pt on input line 400.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 401.
+(Font)              scaled to size 6.25204pt on input line 400.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 401.
+(Font)              scaled to size 11.40997pt on input line 400.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 401.
+(Font)              scaled to size 8.33606pt on input line 400.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 401.
+(Font)              scaled to size 6.25204pt on input line 400.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 401.
+(Font)              scaled to size 10.07397pt on input line 400.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 401.
+(Font)              scaled to size 7.35999pt on input line 400.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 401.
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 401
+(Font)              scaled to size 5.51999pt on input line 400.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 400
 .
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1zplm.fd
@@ -1112,13 +1112,13 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 <shock1.png, id=149, 203.3196pt x 233.673pt>
 File: shock1.png Graphic file (type png)
  <use shock1.png>
-Package pdftex.def Info: shock1.png used on input line 428.
+Package pdftex.def Info: shock1.png used on input line 427.
 (pdftex.def)             Requested size: 203.31909pt x 233.67242pt.
  [5]
 <bortnik1a.pdf, id=170, 500.54903pt x 214.38293pt>
 File: bortnik1a.pdf Graphic file (type pdf)
  <use bortnik1a.pdf>
-Package pdftex.def Info: bortnik1a.pdf used on input line 476.
+Package pdftex.def Info: bortnik1a.pdf used on input line 475.
 (pdftex.def)             Requested size: 404.72455pt x 173.34172pt.
 Missing character: There is no ç in font zplmr7y!
 Missing character: There is no ç in font zplmr7y!
@@ -1126,32 +1126,32 @@ Missing character: There is no ç in font zplmr7y!
 File: fastion2.pdf Graphic file (type pdf)
 
 <use fastion2.pdf>
-Package pdftex.def Info: fastion2.pdf used on input line 540.
+Package pdftex.def Info: fastion2.pdf used on input line 539.
 (pdftex.def)             Requested size: 433.6125pt x 191.86635pt.
  [7 <./bortnik1a.pdf>] [8 <./fastion2.pdf>]
 <iowa.pdf, id=429, 475.7775pt x 362.36578pt>
 File: iowa.pdf Graphic file (type pdf)
  <use iowa.pdf>
-Package pdftex.def Info: iowa.pdf used on input line 610.
+Package pdftex.def Info: iowa.pdf used on input line 609.
 (pdftex.def)             Requested size: 252.94492pt x 192.6501pt.
  [9 <./iowa.pdf>]
 <muri1.png, id=553, 208.1376pt x 205.2468pt>
 File: muri1.png Graphic file (type png)
  <use muri1.png>
-Package pdftex.def Info: muri1.png used on input line 672.
+Package pdftex.def Info: muri1.png used on input line 671.
 (pdftex.def)             Requested size: 208.1466pt x 205.25566pt.
 Missing character: There is no É in font zplmr7y!
 Missing character: There is no ç in font zplmr7y!
  [10 <./muri1.png>] <chaos.pdf, id=573, 925.01787pt x 295.237pt>
 File: chaos.pdf Graphic file (type pdf)
  <use chaos.pdf>
-Package pdftex.def Info: chaos.pdf used on input line 772.
+Package pdftex.def Info: chaos.pdf used on input line 771.
 (pdftex.def)             Requested size: 433.61517pt x 138.3965pt.
  [11]
 <twoion.pdf, id=591, 802.32346pt x 178.12447pt>
 File: twoion.pdf Graphic file (type pdf)
  <use twoion.pdf>
-Package pdftex.def Info: twoion.pdf used on input line 809.
+Package pdftex.def Info: twoion.pdf used on input line 808.
 (pdftex.def)             Requested size: 448.07382pt x 99.47722pt.
  [12 <./chaos.pdf> <./twoion.pdf
 
@@ -1160,14 +1160,14 @@ pdfTeX warning: pdflatex (file ./twoion.pdf): PDF inclusion: multiple pdfs with
 >] <ropes.pdf, id=782, 851.80232pt x 229.79953pt>
 File: ropes.pdf Graphic file (type pdf)
  <use ropes.pdf>
-Package pdftex.def Info: ropes.pdf used on input line 846.
+Package pdftex.def Info: ropes.pdf used on input line 845.
 (pdftex.def)             Requested size: 448.07375pt x 120.88148pt.
 Missing character: There is no ç in font zplmr7y!
 Missing character: There is no ç in font zplmr7y!
  [13 <./ropes.pdf>] <rotation.pdf, id=869, 782.61182pt x 274.3339pt>
 File: rotation.pdf Graphic file (type pdf)
  <use rotation.pdf>
-Package pdftex.def Info: rotation.pdf used on input line 939.
+Package pdftex.def Info: rotation.pdf used on input line 938.
 (pdftex.def)             Requested size: 448.0757pt x 157.06682pt.
 Missing character: There is no Ç in font zplmr7y!
 Missing character: There is no É in font zplmr7y!
@@ -1177,10 +1177,10 @@ Missing character: There is no ç in font zplmr7y!
 File: lab6.pdf Graphic file (type pdf)
 
 <use lab6.pdf>
-Package pdftex.def Info: lab6.pdf used on input line 1063.
+Package pdftex.def Info: lab6.pdf used on input line 1062.
 (pdftex.def)             Requested size: 433.61835pt x 213.27823pt.
 
-Overfull \hbox (6.67227pt too wide) in paragraph at lines 1072--1092
+Overfull \hbox (6.67227pt too wide) in paragraph at lines 1071--1091
 [][] 
  []
 
@@ -1188,70 +1188,70 @@ Overfull \hbox (6.67227pt too wide) in paragraph at lines 1072--1092
 File: lab6-proposal.png Graphic file (type png)
 
 <use lab6-proposal.png>
-Package pdftex.def Info: lab6-proposal.png used on input line 1141.
+Package pdftex.def Info: lab6-proposal.png used on input line 1140.
 (pdftex.def)             Requested size: 252.94585pt x 159.13025pt.
  [18 <./lab6-proposal.png>] [19]
 <tearing.png, id=1017, 145.0218pt x 247.6452pt>
 File: tearing.png Graphic file (type png)
  <use tearing.png>
-Package pdftex.def Info: tearing.png used on input line 1271.
+Package pdftex.def Info: tearing.png used on input line 1270.
 (pdftex.def)             Requested size: 145.02365pt x 247.64835pt.
  [20 <./tearing.png>]
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 1333.
+(Font)              scaled to size 12.50409pt on input line 1332.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 1333.
+(Font)              scaled to size 9.37807pt on input line 1332.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 1333.
+(Font)              scaled to size 7.29405pt on input line 1332.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 1333.
+(Font)              scaled to size 12.50409pt on input line 1332.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 1333.
+(Font)              scaled to size 9.37807pt on input line 1332.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 1333.
+(Font)              scaled to size 7.29405pt on input line 1332.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 1333.
+(Font)              scaled to size 11.03998pt on input line 1332.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 1333.
+(Font)              scaled to size 8.27998pt on input line 1332.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 1333.
+(Font)              scaled to size 6.43999pt on input line 1332.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1333.
+(hyperref)                removing `math shift' on input line 1332.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 1333.
+(hyperref)                removing `subscript' on input line 1332.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1333.
+(hyperref)                removing `math shift' on input line 1332.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1348.
+(hyperref)                removing `math shift' on input line 1347.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\beta' on input line 1348.
+(hyperref)                removing `\beta' on input line 1347.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1348.
+(hyperref)                removing `math shift' on input line 1347.
 
 [21]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1424.
+(hyperref)                removing `math shift' on input line 1423.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\beta' on input line 1424.
+(hyperref)                removing `\beta' on input line 1423.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1424.
+(hyperref)                removing `math shift' on input line 1423.
 
 [22]
 Missing character: There is no Ç in font zplmr7y!
@@ -1259,7 +1259,7 @@ Missing character: There is no Ç in font zplmr7y!
 File: laptag_fig.pdf Graphic file (type pdf)
 
 <use laptag_fig.pdf>
-Package pdftex.def Info: laptag_fig.pdf used on input line 1555.
+Package pdftex.def Info: laptag_fig.pdf used on input line 1554.
 (pdftex.def)             Requested size: 433.61607pt x 139.24426pt.
  [24 <./laptag_fig.pdf>] [25] (./project_description.bblpdfTeX warning (ext4): 
 destination with the same identifier (name{page.1}) has been already used, dupl
@@ -1303,21 +1303,21 @@ e identifier (name{page.8}) has been already used, duplicate ignored
                    \relax 
 l.749 
        [8])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1629.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1628.
 pdfTeX warning (ext4): destination with the same identifier (name{page.9}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1629 \end{document}
+l.1628 \end{document}
                       [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1629.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1628.
  (./project_description.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1629.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1629.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1628.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1628.
 
 Package rerunfilecheck Info: File `project_description.out' has not changed.
-(rerunfilecheck)             Checksum: 5124AC39C227D76B60F59E465FEF114C;13557.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1629.
+(rerunfilecheck)             Checksum: A0B3727E183907D1C36533FBD2D5F549;13547.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1628.
  ) 
 Here is how much of TeX's memory you used:
  13694 strings out of 493109
@@ -1326,7 +1326,7 @@ Here is how much of TeX's memory you used:
  16434 multiletter control sequences out of 15000+600000
  66189 words of font info for 338 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 31i,12n,35p,1088b,923s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31i,12n,35p,1084b,923s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/tex
 live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
@@ -1336,7 +1336,7 @@ texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2
 014/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2014/tex
 mf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2014/texmf-dist
 /fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on project_description.pdf (34 pages, 11867430 bytes).
+Output written on project_description.pdf (34 pages, 11867417 bytes).
 PDF statistics:
  1329 PDF objects out of 1440 (max. 8388607)
  691 compressed objects within 7 object streams
