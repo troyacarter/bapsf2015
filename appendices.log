@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  2 SEP 2015 10:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  2 SEP 2015 10:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1108,60 +1108,60 @@ LaTeX Font Info:    Try loading font information for OT1+zplm on input line 166
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 ) [2]
-Underfull \hbox (badness 10000) in paragraph at lines 234--243
+Underfull \hbox (badness 10000) in paragraph at lines 236--245
 
  []
 
 [3] [4]
-Underfull \hbox (badness 1354) in paragraph at lines 412--416
+Underfull \hbox (badness 1354) in paragraph at lines 414--418
 \T1/pplx/m/n/10.95 (+20) ci-ta-tion of an acous-tic mode in the lab-o-ra-tory, 
 Phys. Plas-mas 22, 055706 (2015);
  []
 
-
-Underfull \hbox (badness 1331) in paragraph at lines 417--420
+[5]
+Underfull \hbox (badness 1331) in paragraph at lines 419--422
 []\T1/pplx/m/n/10.95 (+20) B. Fried-man and T.A. Carter, A non-modal an-a-lyt-i
 -cal method to pre-dict tur-bu-lent
  []
 
-[5]
-Underfull \hbox (badness 2035) in paragraph at lines 425--426
+
+Underfull \hbox (badness 2035) in paragraph at lines 427--428
 []\T1/pplx/m/n/10.95 (+20) B. Van Com-per-nolle, G. J. Morales, J. E. Maggs, an
 d R. D. Sydora, Lab-o-ra-tory
  []
 
 
-Underfull \hbox (badness 1314) in paragraph at lines 425--426
+Underfull \hbox (badness 1314) in paragraph at lines 427--428
 \T1/pplx/m/n/10.95 (+20) study of avalanches in mag-ne-tized plas-mas, Phys. Re
 v. E 91, 031102(R) (2015).
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 427--428
+Underfull \hbox (badness 1163) in paragraph at lines 429--430
 \T1/pplx/m/n/10.95 (+20) plas-mas of the DIII-D toka-mak, Plasma Phys. Con-trol
 . Fu-sion 57 045004 (2015)
  []
 
 [6]
-Underfull \hbox (badness 1132) in paragraph at lines 453--454
+Underfull \hbox (badness 1132) in paragraph at lines 455--456
 \T1/pplx/m/n/10.95 (+20) ner, 2-dimensional ion ve-loc-ity dis-tri-bu-tions mea
 -sured by laser-induced flu-o-res-cence
  []
 
 [7] [8] [9] [10] [11] [12] [13] [14]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 759.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 761.
  [15]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 759.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 761.
  (./appendices.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 759.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 759.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 761.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 761.
 Package rerunfilecheck Info: File `appendices.out' has not changed.
 (rerunfilecheck)             Checksum: 0D5D25DDE1C7772245B4950F75884DB3;3356.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 759.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 761.
  ) 
 Here is how much of TeX's memory you used:
- 12857 strings out of 493089
- 182749 string characters out of 6134842
+ 12858 strings out of 493089
+ 182756 string characters out of 6134842
  275012 words of memory out of 5000000
  15843 multiletter control sequences out of 15000+600000
  39849 words of font info for 199 fonts, out of 8000000 for 9000
@@ -1174,10 +1174,10 @@ ive/2015/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texlive/
 2015/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2015/te
 xmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2015/texmf-dis
 t/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on appendices.pdf (15 pages, 115666 bytes).
+Output written on appendices.pdf (15 pages, 116411 bytes).
 PDF statistics:
- 270 PDF objects out of 1000 (max. 8388607)
- 244 compressed objects within 3 object streams
- 122 named destinations out of 1000 (max. 500000)
+ 271 PDF objects out of 1000 (max. 8388607)
+ 245 compressed objects within 3 object streams
+ 123 named destinations out of 1000 (max. 500000)
  10345 words of extra memory for PDF output out of 12000 (max. 10000000)
 
