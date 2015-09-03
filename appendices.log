@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  2 SEP 2015 10:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  2 SEP 2015 17:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1113,51 +1113,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 236--245
  []
 
 [3] [4]
-Underfull \hbox (badness 1354) in paragraph at lines 414--418
+Underfull \hbox (badness 1354) in paragraph at lines 413--417
 \T1/pplx/m/n/10.95 (+20) ci-ta-tion of an acous-tic mode in the lab-o-ra-tory, 
 Phys. Plas-mas 22, 055706 (2015);
  []
 
 [5]
-Underfull \hbox (badness 1331) in paragraph at lines 419--422
+Underfull \hbox (badness 1331) in paragraph at lines 418--421
 []\T1/pplx/m/n/10.95 (+20) B. Fried-man and T.A. Carter, A non-modal an-a-lyt-i
 -cal method to pre-dict tur-bu-lent
  []
 
 
-Underfull \hbox (badness 2035) in paragraph at lines 427--428
+Underfull \hbox (badness 2035) in paragraph at lines 426--427
 []\T1/pplx/m/n/10.95 (+20) B. Van Com-per-nolle, G. J. Morales, J. E. Maggs, an
 d R. D. Sydora, Lab-o-ra-tory
  []
 
 
-Underfull \hbox (badness 1314) in paragraph at lines 427--428
+Underfull \hbox (badness 1314) in paragraph at lines 426--427
 \T1/pplx/m/n/10.95 (+20) study of avalanches in mag-ne-tized plas-mas, Phys. Re
 v. E 91, 031102(R) (2015).
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 429--430
+Underfull \hbox (badness 1163) in paragraph at lines 428--429
 \T1/pplx/m/n/10.95 (+20) plas-mas of the DIII-D toka-mak, Plasma Phys. Con-trol
 . Fu-sion 57 045004 (2015)
  []
 
 [6]
-Underfull \hbox (badness 1132) in paragraph at lines 455--456
+Underfull \hbox (badness 1132) in paragraph at lines 454--455
 \T1/pplx/m/n/10.95 (+20) ner, 2-dimensional ion ve-loc-ity dis-tri-bu-tions mea
 -sured by laser-induced flu-o-res-cence
  []
 
 [7] [8] [9] [10] [11] [12] [13] [14]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 761.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 760.
  [15]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 761.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 760.
  (./appendices.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 761.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 761.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 760.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 760.
 Package rerunfilecheck Info: File `appendices.out' has not changed.
 (rerunfilecheck)             Checksum: 0D5D25DDE1C7772245B4950F75884DB3;3356.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 761.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 760.
  ) 
 Here is how much of TeX's memory you used:
  12858 strings out of 493089
@@ -1174,7 +1174,7 @@ ive/2015/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texlive/
 2015/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2015/te
 xmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2015/texmf-dis
 t/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on appendices.pdf (15 pages, 116411 bytes).
+Output written on appendices.pdf (15 pages, 116362 bytes).
 PDF statistics:
  271 PDF objects out of 1000 (max. 8388607)
  245 compressed objects within 3 object streams
