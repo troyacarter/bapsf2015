@@ -457,12 +457,12 @@ B.~D. Scott.
 \bibitem{hasegawa76}
 Akira Hasegawa and Liu Chen.
 \newblock Kinetic processes in plasma heating by resonant mode conversion of
-  {A}lfvén wave.
+  {A}lfv\'{e}n wave.
 \newblock {\em Phys. Fluids}, 19(12):1924--1934, 1976.
 
 \bibitem{lysak96}
 Robert~L. Lysak and William Lotko.
-\newblock On the kinetic dispersion relation for shear {A}lfvén waves.
+\newblock On the kinetic dispersion relation for shear {A}lfv\'{e}n waves.
 \newblock {\em J. Geophys. Res.}, 101(A3):5085--5094, 1996.
 
 \bibitem{barnes66}
@@ -482,7 +482,8 @@ S.~Peter Gary, Hui Li, Sean O'Rourke, and Dan Winske.
 \newblock {\em J. Geophys. Res.}, 103(A7):14567--14574, 1998.
 
 \bibitem{hellinger06}
-Petr Hellinger, Pavel Trávníček, Justin~C. Kasper, and Alan~J. Lazarus.
+Petr Hellinger, Pavel Tr\'{a}vn\'{i}\v{c}ek, Justin~C. Kasper, and Alan~J.
+  Lazarus.
 \newblock Solar wind proton temperature anisotropy: Linear theory and
   {WIND/SWE} observations.
 \newblock {\em Geophys. Res. Lett.}, 33(9):L09101, 2006.
@@ -615,9 +616,9 @@ N.~N. Gorelenkov, D.~Stutman, K.~Tritz, L.~Boozer, A .and Delgado-Aparicio,
 \newblock {\em Nucl. Fusion}, 50(8):084012, 2010.
 
 \bibitem{jaeger:2008}
-Erwin~Frederick Jaeger, Lee~A. Berry, Ed~F. D’Azevedo, Richard~F. Barrett,
+Erwin~Frederick Jaeger, Lee~A. Berry, Ed~F. D'Azevedo, Richard~F. Barrett,
   S.~D. Ahern, David~W. Swain, Donald~B. Batchelor, R.~W. Harvey, J.~R. Myra,
-  D.~A. D’{I}ppolito, et~al.
+  D.~A. D'Ippolito, et~al.
 \newblock Simulation of high-power electromagnetic wave heating in the {ITER}
   burning plasma.
 \newblock {\em Phys. Plasmas}, 15(7):072513, 2008.
@@ -759,7 +760,7 @@ W.~Gekelman, P.~Pribyl, J.~Wise, A.~Lee, R.~Hwang, C.~Eghtebas, J.~Shin, and
 
 \bibitem{gekelman2002laptag}
 Walter Gekelman.
-\newblock {LAPTAG}—a physics outreach program at {UCLA}.
+\newblock {LAPTAG}--a physics outreach program at {UCLA}.
 \newblock {\em APS News}, 11(5), 2002.
 
 \end{thebibliography}
