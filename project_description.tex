@@ -1,46 +1,8 @@
 \documentclass[11pt]{article}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
 \usepackage{fixltx2e} % provides \textsubscript
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
-\else % if luatex or xelatex
-  \ifxetex
-    \usepackage{mathspec}
-    \usepackage{xltxtra,xunicode}
-  \else
-    \usepackage{fontspec}
-  \fi
-  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
-  \newcommand{\euro}{€}
-\fi
-% use upquote if available, for straight quotes in verbatim environments
-\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-% use microtype if available
-\IfFileExists{microtype.sty}{%
-\usepackage{microtype}
-\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
-}{}
-\ifxetex
-  \usepackage[setpagesize=false, % page size defined by xetex
-              unicode=false, % unicode breaks when used with xetex
-              xetex]{hyperref}
-\else
-  \usepackage[unicode=true]{hyperref}
-\fi
 \usepackage[usenames,dvipsnames]{color}
-\hypersetup{breaklinks=true,
-            bookmarks=true,
-            pdfauthor={},
-            pdftitle={},
-            colorlinks=true,
-            citecolor=blue,
-            urlcolor=blue,
-            linkcolor=magenta,
-            pdfborder={0 0 0}}
-\urlstyle{same}  % don't use monospace font for urls
 \usepackage{longtable,booktabs}
 \usepackage{graphicx,grffile}
 \makeatletter
@@ -76,7 +38,7 @@
 \setlength{\textwidth}{6.7in}
 
 \usepackage[T1]{fontenc}
-\usepackage{fourier}
+%\usepackage{fourier}
 \usepackage[sc]{mathpazo}
 \linespread{1.05}         % Palatino needs more leading (space between lines)
 \newcommand\Alfven{Alfv\'en }
@@ -395,8 +357,8 @@ current-free laboratory plasma and the first experimental measurement
 of the shock formation time. 
 
 In these experiments a plastic target was irradiated with an energetic
-200J laser beam from a high-energy glass laser. A blow-off plasma
-was created that propagated at super Alfv\'{e}nic speeds across a 300G
+200~J laser beam from a high-energy glass laser. A blow-off plasma
+was created that propagated at super Alfv\'{e}nic speeds across a 300~G
 external magnetic field in which a preexisting H$^+$ plasma was confined.
 
 
@@ -425,7 +387,7 @@ indicative of energy transfer to the ambient plasma.
 \begin{wrapfigure}{l}{3.2truein}
 \begin{center}
 \includegraphics[width=3.2truein]{shock1}
-\caption{a) Magnetic stack plots of $B_{z}$ as a function of time for
+\caption{\small a) Magnetic stack plots of $B_{z}$ as a function of time for
   various distances from the target. (b) Comparison of $B_z(t)$ at $x
   = 35$cm with (black) and without (red) the ambient plasma. (c) Structure
   of the pulse before ($t = 0.3$ $\mu$s) and after a shock is formed.}\label{shock1}
@@ -473,7 +435,7 @@ beam source, with beam energies up to 5 keV.
 
 \begin{figure}[!htbp]
 \centerline{\includegraphics[width=5.6truein]{bortnik1a}}
-\caption{Examples of spectrograms of whistler wave excitation. (a)
+\caption{\small Examples of spectrograms of whistler wave excitation. (a)
   broadband waves, (b) falling tone, (c) multiple consecutive chirps,
   (d) double hook, (e) long rising and falling tone, (f) chirps at
   multiple frequencies simultaneously}\label{bortnik1}
@@ -537,7 +499,7 @@ impacted by turbulence).
 
 \begin{figure}[!htbp]
 \centerline{\includegraphics[width=6.0truein]{fastion2}}
-\caption{(a), (b), (c) Measured correlation function for electrostatic
+\caption{\small (a), (b), (c) Measured correlation function for electrostatic
   fluctuations in LAPD, with cartoon of test ion orbit superposed. (d)
   Variation of orbital displacement of test ions with $\rho_{\rm
     fast}$/$\lambda_{\perp}$, where $\lambda_\perp$ is the
@@ -607,7 +569,7 @@ Howes, F. Skiff, C. Kletzing (U. Iowa); T. Carter, S. Dorfman (UCLA))}
 \begin{wrapfigure}{r}{3.5truein}
 \begin{center}
 \includegraphics[width=3.5truein]{iowa}
-\caption{ (a) Diagram of $\V{k}_{\perp 1}$ for the ASW
+\caption{\small  (a) Diagram of $\V{k}_{\perp 1}$ for the ASW
 antenna (blue) and  $\V{k}_{\perp 2}$ for the Loop antenna (red). Bullseyes indicate predicted
 power distribution of the nonlinear product.  Colormaps
 of $\delta B_x(k_x,k_y)$ for: (b) the Loop antenna by itself, (c) the
@@ -669,10 +631,10 @@ Morales (UCLA))}
 \begin{wrapfigure}{l}{3.0truein}
 \begin{center}
 \includegraphics[width=3.0truein]{muri1}
-\caption{Time series of measured x-ray flux
+\caption{\small Time series of measured x-ray flux.
 Trace A is measured without launching the SAW. In traces B-T a
 shear Alfv\'{e}n wave pulse, starting at
-different times, as labeled, is launched. }\label{muri1}
+different times, as labeled, is launched.}\label{muri1}
 \end{center}
 \end{wrapfigure}
 
@@ -769,7 +731,7 @@ chaotic behavior as the simple LAPD experiment~\cite{maggs:2015}.
 
 \begin{figure}[!htbp]
 \centerline{\includegraphics[width=6.0truein]{chaos}}
-\caption{(a-c) C-H plane analysis of data in LAPD experiment and of prediction
+\caption{\small (a-c) C-H plane analysis of data in LAPD experiment and of prediction
 of a chaotic advection model shows LAPD dynamics are chaotic. (d) C-H plane analysis of Doppler-backscattering (DBS) from DIII-D
 shows that the signals from all the channels (different radii) are in
 the chaotic region, as in the LAPD experiment. }\label{chaos}
@@ -806,7 +768,7 @@ in a pulsed and continuous operation, as illustrated in Fig.~\ref{twoion}.
 
 \begin{figure}[!htbp]
 \centerline{\includegraphics[width=6.2truein]{twoion}}
-\caption{(a) Axial variation of resonator in LAPD for a
+\caption{\small (a) Axial variation of resonator in LAPD for a
 H-He\textsuperscript{+} plasma showing propagation bands and gap. (b)
 Spectrum of magnetic fluctuations inside resonator shows resonator
 peaks; arrows are theoretically-predicted frequencies of trapped
@@ -843,7 +805,7 @@ illustrated in Figure~\ref{ropes}.
 
 \begin{figure}[!htbp]
 \centerline{\includegraphics[width=6.2truein]{ropes}}
-\caption{(a) The blue surface is a QSL (Q = 100) which is located
+\caption{\small (a) The blue surface is a QSL (Q = 100) which is located
 between two flux ropes colored red and yellow. The flux ropes
 are calculated by following field lines through the dense grid of
 measurement points. (b) A Q = 500 surface with several field lines
@@ -857,13 +819,13 @@ also occurs within the flux tubes.}\label{ropes}
 \end{figure}
 
 QSLs have been observed in the collision of two or more flux
-ropes~\cite{gekelman:2010,vancompernolle:2011}. In a separate tearing mode experiment QSL's
+ropes~\cite{gekelman:2010,vancompernolle:2011}. In a separate tearing mode experiment QSLs
 were discovered when 3D current systems expanded in space and no field
 line reconnection was involved. For the first time the total electric
 field was measured using a
 combination of magnetic and emissive probes. The parallel resistivity,
 $\eta_\parallel$, was derived from the data and can
-be 100's of times the Spitzer resistivity in small regions of space
+be 100s of times the Spitzer resistivity in small regions of space
 during the collision of flux ropes. The resistivity was localized to the
 gradients in the current of the flux ropes and also within the QSL.
 Figure~\ref{ropes}(c) shows the QSL, current and $\eta_\parallel$
@@ -936,7 +898,7 @@ of order unity.
 \begin{figure}[!htbp]
 \centerline{
 \includegraphics[width=6.2truein]{rotation}}
-\caption{\label{rotation} (a) Gradient scale length versus shearing
+\caption{\small \label{rotation} (a) Gradient scale length versus shearing
   rate. (b) Particle flux normalized to no-shear
   flux as a function of normalized shearing rate. Filled symbols
   represent points with flow in the ion diamagnetic direction. Inset: Measured turbulent particle flux versus
@@ -1060,7 +1022,7 @@ the local group.
 
 \begin{figure}[!htbp]
 \centerline{\includegraphics[width=6.0truein]{lab6}}
-\caption{(a) Density and (b) Electron temperature profiles for plasmas
+\caption{\small (a) Density and (b) Electron temperature profiles for plasmas
 generated with the 20cm LaB$_6$ secondary cathode in LAPD. (c) Time
 history of the LaB$_6$ cathode discharge current and ion temperature
 (measured spectroscopically).}\label{lab6}
@@ -1087,7 +1049,7 @@ Typical Alfv\'{e}n wave frequency (kHz) & 200 & 200 & 100 & 25 \\\hline
 Plasma Beta  & $4\times 10^{-4}$ & 1.6\% & 10\% & $\sim 1$ \\\hline
 \hline
 \end{tabular}}
-\caption{Typical parameters for helium discharges in
+\caption{\small Typical parameters for helium discharges in
   LAPD. }\label{lapdparams}
 %\end{wraptable}
 \end{table}
@@ -1138,7 +1100,7 @@ leverage the new capabilities provided by the upgraded source.
 \begin{wrapfigure}{r}{3.5truein}
 \begin{center}
 \includegraphics[width=3.5truein]{lab6-proposal}
-\caption{Conceptual design for new primary LaB$_6$ cathode source with
+\caption{\small Conceptual design for new primary LaB$_6$ cathode source with
   internal magnets for LAPD}\label{newcath}
 \end{center}
 \end{wrapfigure}
@@ -1268,7 +1230,7 @@ W. Daughton (LANL))}
 \begin{wrapfigure}{r}{3.0truein}
 \begin{center}
 \includegraphics[width=3.0truein]{tearing}
-\caption{Vectors of perpendicular magnetic field in a plane 6.8~m from
+\caption{\small Vectors of perpendicular magnetic field in a plane 6.8~m from
   the LaB$_6$ source.  Three magnetic islands are visible as O-points
   in the magnetic field.}\label{tearing}
 \end{center}
@@ -1307,7 +1269,7 @@ Ph.D. research (and as such this effort will be partly funded by the research
 portion of this proposal).   Initial experiments have been done where
 a current sheet is generated by using a graphite ``mask'' for the
 secondary LaB$_6$ cathode.  The mask allows current to flow through a
-long, thin slit, forming a current sheet with aspect ration of $\sim
+long, thin slit, forming a current sheet with aspect ratio of $\sim
 10$. The sheet is observed to tear into three separate O-points, as
 shown in Fig.~\ref{tearing}.
 
@@ -1432,7 +1394,7 @@ As $\beta$ is increased, the Alfv\'{e}n velocity is reduced relative
 to the electron thermal speed; at $\beta_i = 1$, the Alfv\'{e}n speed
 and ion thermal speed are comparable.  As such, increasing beta should
 reduce kinetic damping on electrons and eventually increase
-interaction with ions as beta approaches unity.  At high beta, ions
+interaction with ions as beta approaches unity.  At high $\beta$, ions
 can damp the wave via the wave parallel electric field (Landau
 damping) but also through transit-time magnetic pumping or Barnes
 damping due to the presence of compressive magnetic
@@ -1552,7 +1514,7 @@ scientists at BaPSF.
 \begin{figure}[!htbp]
 \centerline{
 \includegraphics[width=6.0truein]{laptag_fig}}
-\caption{Left: The LAPTAG plasma physics device.  Right: Cross-spectral analysis of the
+\caption{\small Left: The LAPTAG plasma physics device.  Right: Cross-spectral analysis of the
 cross-field structure of drift waves driven in the device (data taken
 and analyzed by HS students).}\label{laptag}
 \end{figure}
@@ -1567,7 +1529,7 @@ given by BaPSF staff. The LAPTAG students attend scientific meetings,
 the latest being the Fall 2013 APS-DPP meeting (Denver Colorado) where
 they presented experimental results on resonance cones and won the
 ``best poster'' for undergraduate research.  In 2010 they presented
-data at whistler waves at the Chicago meeting.  LAPTAG meets every
+data on whistler waves at the Chicago meeting.  LAPTAG meets every
 Saturday and nearly every day during in the summer. Experiments
 performed by the LAPTAG participants have resulted in publications
 (with high school student co-authors) in the American Journal of
