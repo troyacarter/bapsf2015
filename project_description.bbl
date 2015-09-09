@@ -1,7 +1,10 @@
 \begin{thebibliography}{100}
 
 \bibitem{laptag}
-http://plasmalab.pbworks.com.
+{\ttfamily http://plasmalab.pbworks.com}.
+
+\bibitem{bapsfweb}
+{\ttfamily http://plasma.physics.ucla.edu}.
 
 \bibitem{schaeffer:2014}
 D.~B. Schaeffer, Everson~E. T., Bondarenko~A. S., S.~E. Clark, C.~G.
